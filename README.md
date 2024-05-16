@@ -1,28 +1,15 @@
 # PixelWar.fun
 
-
-[![Guilded](https://img.shields.io/badge/Discord-Support-blue.svg)](https://PixelWar.fun/guilded)
-
 Official  repository of [PixelWar.fun](http://www.PixelWar.fun).
+Code is under ownership of hf, The developer of pixelplanet.fun https://git.pixelplanet.fun
 
-![videothumb](promotion/videothumb.gif)
-
-> Our translations are hosted [on Weblate](https://hosted.weblate.org/projects/PixelWar), information on how to contribute is available under [i18n](./i18n). We very much appreciate any help. 
-
-[![Translation status](https://hosted.weblate.org/widget/PixelWar/svg-badge.svg)](https://hosted.weblate.org/engage/PixelWar/)
-
-To the 2nd anniversary of r/space, PixelWar takes pixelgames to a new level. Place pixels, create pixelart and fight faction wars on PixelWar.fun.
-PixelWar is a 65k x 65k large canvas that is a map of the world and can also be seen as 3d globe, you can place pixels where ever you want, build an island, take over another country with a flag or just create pixelart.
-30 well chosen colors (decided by polls within the community) are available and you can place a pixel every 3s on an empty space, and 5s on an already set pixel. But pixels can be stacked up to a minute, so you don't have to wait every time.
-
-PixelWar receives regular updates and launches events, like a zero second cooldown day on r/place anniversary. We are driven by our community, because placing pixels is more fun together.
+To the 2nd anniversary of r/space, PixelPlanet takes pixelgames to a new level. Place pixels, create pixelart and fight faction wars on PixelPlanet.
+PixelPlanet is a 65k x 65k large canvas that is a map of the world and can also be seen as 3d globe, you can place pixels where ever you want, build an island, take over another country with a flag or just create pixelart.
 
 Controls:
 W, A, S, D, click and drag or pan: Move
 Q, E or scroll or pinch: Zoom
 Click or tab: Place Pixel
-![screenshot](promotion/screenshot.png)
-
 
 ## Build
 ### Requirements
@@ -32,7 +19,7 @@ Click or tab: Place Pixel
 Checkout repository
 
 ```
-git clone https://git.PixelWar.fun/ppfun/PixelWar.git
+git clone https://github.com/d0064/PixelWar.git
 cd PixelWar
 ```
 
@@ -43,7 +30,7 @@ npm install
 npm run build
 ```
 
-All needed files to run it got created in `./dist`. You can copy it to wherever you want to run PixelWar.
+All needed files to run it got created in `./dist`. You can copy it to wherever you want to run PixelWar (AKA PixelPlanet Code).
 
 ## Run
 ### Requirements
@@ -108,7 +95,7 @@ Notes:
 - to be able to use USE_PROXYCHECK you have to have an account on proxycheck.io and set PROXYCHECK_KEY.
 - Admins are users with 0cd and access to `Admintools`in their User Menu
 - You can find out the id of a user by wiriting a message in chat and pinging
-- PixelWar uses the unix command sendmail for sending verification and password reset mails. If you don't want to set up your own mail server, look into [ssmtp](https://wiki.archlinux.org/title/SSMTP), which provides a sendmail interface that forwards to other providers like gmail.
+- PixelPlanet uses the unix command sendmail for sending verification and password reset mails. If you don't want to set up your own mail server, look into [ssmtp](https://wiki.archlinux.org/title/SSMTP), which provides a sendmail interface that forwards to other providers like gmail.
 - default configuartion values can be seen in `src/core/config.js`
 - The HTML for SocialMedia logins is in src/componets/UserAreaModal.js , delete stuff from there if you don't need it. The HTML for the Help Screen is in src/components/HelpModal.js
 
