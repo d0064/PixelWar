@@ -10,7 +10,7 @@ apps:
       #HOST: "localhost"
       REDIS_URL: 'redis://localhost:6379'
       MYSQL_HOST: "localhost"
-      MYSQL_USER: "pixelplanet"
-      MYSQL_DATABASE: "pixelplanet"
+      MYSQL_USER: "PixelWar"
+      MYSQL_DATABASE: "PixelWar"
       MYSQL_PW: "sqlpassword"
       SESSION_SECRET: "ayyylmao"

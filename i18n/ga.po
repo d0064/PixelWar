@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-05-14 19:42+0000\n"
 "Last-Translator: FOXHELL <foxhell768@gmail.com>\n"
-"Language-Team: Irish <https://hosted.weblate.org/projects/pixelplanet/client/"
+"Language-Team: Irish <https://hosted.weblate.org/projects/PixelWar/client/"
 "ga/>\n"
 "Language: ga\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -67,10 +67,10 @@ msgstr "am istigh"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Ní bhfuair muid freagra ó pixelplanet. Déan iarracht athnuachan a dhéanamh "
+"Ní bhfuair muid freagra ó PixelWar. Déan iarracht athnuachan a dhéanamh "
 "má leanann an fhadhb seo"
 
 #: src/ui/PixelTransferController.js:104
@@ -251,8 +251,8 @@ msgid "Your next pixels are ready"
 msgstr "Tá do picteilíní eile réidh"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Is féidir leat a chur anois níos mó ar pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Is féidir leat a chur anois níos mó ar PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -805,8 +805,8 @@ msgid "Themes"
 msgstr "Téamaí"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "An dóigh a ba Chóir do Pixelplanet a beith mar."
+msgid "How PixelWar should look like."
+msgstr "An dóigh a ba Chóir do PixelWar a beith mar."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"

@@ -1,5 +1,5 @@
 /*
- * sends events via window.pixelPlanetEvents to potential
+ * sends events via window.PixelWarEvents to potential
  * Extensions and Userscripts
  * Also check out ui/PixelTransferController.js, which sends received
  *   pixels to a window.registerPixelUpdates callback
@@ -15,7 +15,7 @@ import { getRenderer } from '../../ui/rendererFactory';
 
 let isActive = false;
 
-const pixelPlanetEvents = new EventEmitter();
+const PixelWarEvents = new EventEmitter();
 
 /*
  * Monkey patch the 2D renderer when any extension is subscribed to anything
@@ -37,7 +37,7 @@ function monkeyPatchRenderer(renderer) {
       /*
        * [x, y]: floats of canvas coordinates of the center of the screen,
        */
-      pixelPlanetEvents.emit('setviewcoordinates', [x, y]);
+      PixelWarEvents.emit('setviewcoordinates', [x, y]);
     }
     if (scale !== pScale) {
       // clamp to 1 if origin is given, see src/ui/Renderer2.js#184
@@ -45,35 +45,35 @@ function monkeyPatchRenderer(renderer) {
       /*
        * viewscale: float of canvas scale aka zoom
        */
-      pixelPlanetEvents.emit('setscale', viewscale);
+      PixelWarEvents.emit('setscale', viewscale);
     }
   };
 }
 
-(function mpPixelPlanetEvents() {
+(function mpPixelWarEvents() {
   function setActive() {
     // eslint-disable-next-line no-console
     console.log('Extension active');
-    pixelPlanetEvents.once = pixelPlanetEvents.origOnce;
-    pixelPlanetEvents.addListener = pixelPlanetEvents.origAdd;
-    pixelPlanetEvents.on = pixelPlanetEvents.addListener;
-    delete pixelPlanetEvents.origOnce;
-    delete pixelPlanetEvents.origAdd;
+    PixelWarEvents.once = PixelWarEvents.origOnce;
+    PixelWarEvents.addListener = PixelWarEvents.origAdd;
+    PixelWarEvents.on = PixelWarEvents.addListener;
+    delete PixelWarEvents.origOnce;
+    delete PixelWarEvents.origAdd;
     isActive = true;
     const renderer = getRenderer();
     monkeyPatchRenderer(renderer);
   }
-  pixelPlanetEvents.origOnce = pixelPlanetEvents.once;
-  pixelPlanetEvents.origAdd = pixelPlanetEvents.addListener;
-  pixelPlanetEvents.once = function once(...args) {
-    pixelPlanetEvents.origOnce(...args);
+  PixelWarEvents.origOnce = PixelWarEvents.once;
+  PixelWarEvents.origAdd = PixelWarEvents.addListener;
+  PixelWarEvents.once = function once(...args) {
+    PixelWarEvents.origOnce(...args);
     setActive();
   };
-  pixelPlanetEvents.addListener = function addListener(...args) {
-    pixelPlanetEvents.origAdd(...args);
+  PixelWarEvents.addListener = function addListener(...args) {
+    PixelWarEvents.origAdd(...args);
     setActive();
   };
-  pixelPlanetEvents.on = pixelPlanetEvents.addListener;
+  PixelWarEvents.on = PixelWarEvents.addListener;
 }());
 
 export default () => (next) => (action) => {
@@ -81,7 +81,7 @@ export default () => (next) => (action) => {
 
   switch (type) {
     case 's/SELECT_CANVAS': {
-      pixelPlanetEvents.emit('selectcanvas', action.canvasId);
+      PixelWarEvents.emit('selectcanvas', action.canvasId);
       break;
     }
 
@@ -90,7 +90,7 @@ export default () => (next) => (action) => {
        * hover: [x, y] integer canvas coordinates of cursor
        * just used on 2D canvas
        */
-      pixelPlanetEvents.emit('sethover', action.hover);
+      PixelWarEvents.emit('sethover', action.hover);
       break;
     }
 
@@ -99,7 +99,7 @@ export default () => (next) => (action) => {
        * chunk: ChunkRGB or ChunkRGB3D object,
        *        see ui/ChunkRGB.js and ui/ChunkRGB3D.js
        */
-      pixelPlanetEvents.emit('receivechunk', action.chunk);
+      PixelWarEvents.emit('receivechunk', action.chunk);
       break;
     }
 
@@ -127,4 +127,4 @@ export default () => (next) => (action) => {
   return ret;
 };
 
-window.pixelPlanetEvents = pixelPlanetEvents;
+window.PixelWarEvents = PixelWarEvents;

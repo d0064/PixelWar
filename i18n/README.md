@@ -1,6 +1,6 @@
 # Translations
 
-The easiets way to help translate the game is with weblate. Simply use [hosted.weblate.org/projects/pixelplanet](https://hosted.weblate.org/projects/pixelplanet/). Feel free to ask in the Translation section in [our Discord](https://pixelplanet.fun/guilded) if you need help.
+The easiets way to help translate the game is with weblate. Simply use [hosted.weblate.org/projects/PixelWar](https://hosted.weblate.org/projects/PixelWar/). Feel free to ask in the Translation section in [our Discord](https://PixelWar.Fun/guilded) if you need help.
 
 Tips for Weblate:
 
@@ -11,19 +11,19 @@ If a language code differs from the country code of a wanted flag, it can be def
 
 All translated languages get an own chat channel that just people who use this language can access.
 
-[![Translation status](https://hosted.weblate.org/widget/pixelplanet/multi-auto.svg)](https://hosted.weblate.org/engage/pixelplanet/)
+[![Translation status](https://hosted.weblate.org/widget/PixelWar/multi-auto.svg)](https://hosted.weblate.org/engage/PixelWar/)
 
 # Translating Offline
 
 Two translation files for each language are needed, `ssr-[locale].po` and `[locale].pb` (i.e. `ssr-de.po` and `de.po`).
 
-Translation files can be created out of the templates [template.pot](https://git.pixelplanet.fun/ppfun/translations/raw/branch/master/template.pot) and [template-ssr.pot](https://git.pixelplanet.fun/ppfun/translations/raw/branch/master/template-ssr.pot). They are standard GNU gettext files and can be edited in any ordinary texteditor or po-Editor.
+Translation files can be created out of the templates [template.pot](https://git.PixelWar.Fun/ppfun/translations/raw/branch/master/template.pot) and [template-ssr.pot](https://git.PixelWar.Fun/ppfun/translations/raw/branch/master/template-ssr.pot). They are standard GNU gettext files and can be edited in any ordinary texteditor or po-Editor.
 
 ## With poedit
 
 ### Create new translation
 
-1. Download poedit [here](https://poedit.net/) and [template.pot](https://git.pixelplanet.fun/ppfun/translations/raw/branch/master/template.pot)
+1. Download poedit [here](https://poedit.net/) and [template.pot](https://git.PixelWar.Fun/ppfun/translations/raw/branch/master/template.pot)
 2. Open it and **Create new Translation** and open the `template.pot`
 ![start](./images/start.png)
 3. Select the language you want to translate into
@@ -31,8 +31,8 @@ Translation files can be created out of the templates [template.pot](https://git
 4. Translate all the entries
 ![translate](./images/translate.png)
 5. Save the translation as `[locale].po` (i.e. `es.po` for spanish)
-6. Do the same again, but with [template-ssr.pot](https://git.pixelplanet.fun/ppfun/translations/raw/branch/master/template-ssr.pot) and save it as `ssr-[locale].po`
-7. Send us the two files on [discord](https://pixelplanet.fun/guilded) or make a pull request
+6. Do the same again, but with [template-ssr.pot](https://git.PixelWar.Fun/ppfun/translations/raw/branch/master/template-ssr.pot) and save it as `ssr-[locale].po`
+7. Send us the two files on [discord](https://PixelWar.Fun/guilded) or make a pull request
 
 ### Update old translation if change is needed
 

@@ -1,21 +1,21 @@
-# PixelPlanet.fun
+# PixelWar.fun
 
 
-[![Guilded](https://img.shields.io/badge/Discord-Support-blue.svg)](https://pixelplanet.fun/guilded)
+[![Guilded](https://img.shields.io/badge/Discord-Support-blue.svg)](https://PixelWar.fun/guilded)
 
-Official  repository of [pixelplanet.fun](http://www.pixelplanet.fun).
+Official  repository of [PixelWar.fun](http://www.PixelWar.fun).
 
 ![videothumb](promotion/videothumb.gif)
 
-> Our translations are hosted [on Weblate](https://hosted.weblate.org/projects/pixelplanet), information on how to contribute is available under [i18n](./i18n). We very much appreciate any help. 
+> Our translations are hosted [on Weblate](https://hosted.weblate.org/projects/PixelWar), information on how to contribute is available under [i18n](./i18n). We very much appreciate any help. 
 
-[![Translation status](https://hosted.weblate.org/widget/pixelplanet/svg-badge.svg)](https://hosted.weblate.org/engage/pixelplanet/)
+[![Translation status](https://hosted.weblate.org/widget/PixelWar/svg-badge.svg)](https://hosted.weblate.org/engage/PixelWar/)
 
-To the 2nd anniversary of r/space, pixelplanet takes pixelgames to a new level. Place pixels, create pixelart and fight faction wars on pixelplanet.fun.
-Pixelplanet is a 65k x 65k large canvas that is a map of the world and can also be seen as 3d globe, you can place pixels where ever you want, build an island, take over another country with a flag or just create pixelart.
+To the 2nd anniversary of r/space, PixelWar takes pixelgames to a new level. Place pixels, create pixelart and fight faction wars on PixelWar.fun.
+PixelWar is a 65k x 65k large canvas that is a map of the world and can also be seen as 3d globe, you can place pixels where ever you want, build an island, take over another country with a flag or just create pixelart.
 30 well chosen colors (decided by polls within the community) are available and you can place a pixel every 3s on an empty space, and 5s on an already set pixel. But pixels can be stacked up to a minute, so you don't have to wait every time.
 
-Pixelplanet receives regular updates and launches events, like a zero second cooldown day on r/place anniversary. We are driven by our community, because placing pixels is more fun together.
+PixelWar receives regular updates and launches events, like a zero second cooldown day on r/place anniversary. We are driven by our community, because placing pixels is more fun together.
 
 Controls:
 W, A, S, D, click and drag or pan: Move
@@ -32,8 +32,8 @@ Click or tab: Place Pixel
 Checkout repository
 
 ```
-git clone https://git.pixelplanet.fun/ppfun/pixelplanet.git
-cd pixelplanet
+git clone https://git.PixelWar.fun/ppfun/PixelWar.git
+cd PixelWar
 ```
 
 Install packages and build
@@ -43,14 +43,14 @@ npm install
 npm run build
 ```
 
-All needed files to run it got created in `./dist`. You can copy it to wherever you want to run pixelplanet.
+All needed files to run it got created in `./dist`. You can copy it to wherever you want to run PixelWar.
 
 ## Run
 ### Requirements
 
 - [nodejs environment](https://nodejs.org/en/) (>=18)
 - [redis](https://redis.io/) or [redis-for-windows](https://github.com/redis-windows/redis-windows) as database for storìng the canvas 
-- mysql or mariadb ([setup own user](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql) and [create database](https://www.w3schools.com/SQl/sql_create_db.asp) for pixelplanet) for storing additional data like IP blacklist
+- mysql or mariadb ([setup own user](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql) and [create database](https://www.w3schools.com/SQl/sql_create_db.asp) for PixelWar) for storing additional data like IP blacklist
 
 ### Configuration
 Configuration takes place in the environment variables that are defined in ecosystem.yml.
@@ -63,9 +63,9 @@ Configuration takes place in the environment variables that are defined in ecosy
 | HOST           | Own Host                 | "localhost"             |
 | REDIS_URL      | URL:PORT of redis server | "redis://localhost:6379"|
 | MYSQL_HOST     | MySql Host               | "localhost"             |
-| MYSQL_USER     | MySql User               | "pixelplanet"           |
+| MYSQL_USER     | MySql User               | "PixelWar"           |
 | MYSQL_PW       | MySql Password           | "sqlpassword"           |
-| MYSQL_DATABASE | MySql Database           | "pixelplanet"           |
+| MYSQL_DATABASE | MySql Database           | "PixelWar"           |
 
 #### Optional Configuration
 
@@ -84,7 +84,7 @@ Configuration takes place in the environment variables that are defined in ecosy
 | BACKUP_DIR        | mounted directory of backup server    | "/mnt/backup/"            |
 | HOURLY_EVENT      | run hourly void event on main canvas  | 1                         |
 | USE_MAILER        | enable to use mail sevicse            | 0                         |
-| MAIL_ADDRESS      | email address for sending mails       | "noreply@pixelplanet.fun" |
+| MAIL_ADDRESS      | email address for sending mails       | "noreply@PixelWar.fun" |
 
 #### Social Media Configuration
 
@@ -108,7 +108,7 @@ Notes:
 - to be able to use USE_PROXYCHECK you have to have an account on proxycheck.io and set PROXYCHECK_KEY.
 - Admins are users with 0cd and access to `Admintools`in their User Menu
 - You can find out the id of a user by wiriting a message in chat and pinging
-- pixelplanet uses the unix command sendmail for sending verification and password reset mails. If you don't want to set up your own mail server, look into [ssmtp](https://wiki.archlinux.org/title/SSMTP), which provides a sendmail interface that forwards to other providers like gmail.
+- PixelWar uses the unix command sendmail for sending verification and password reset mails. If you don't want to set up your own mail server, look into [ssmtp](https://wiki.archlinux.org/title/SSMTP), which provides a sendmail interface that forwards to other providers like gmail.
 - default configuartion values can be seen in `src/core/config.js`
 - The HTML for SocialMedia logins is in src/componets/UserAreaModal.js , delete stuff from there if you don't need it. The HTML for the Help Screen is in src/components/HelpModal.js
 
@@ -198,7 +198,7 @@ pm2 stop ppfun
 
 ### If using reverse Proxy
 
-If USE\_XREALIP is set, we take the IP from the X-Real-Ip header. Use this if you have pixelplanet running behind a reverse proxy like nginx (recommended). Use the nginx set\_realip module to give us the client ip on the X-Real-Ip header (and set it up so that just cloudflare are trusted proxy IPs, if you use them, or else players could fake their IP). And be sure to also set X-Forwarded-Host, X-Forwarded-Port and set X-Forwarded-Proto, because we use it for CORS and redirecion.
+If USE\_XREALIP is set, we take the IP from the X-Real-Ip header. Use this if you have PixelWar running behind a reverse proxy like nginx (recommended). Use the nginx set\_realip module to give us the client ip on the X-Real-Ip header (and set it up so that just cloudflare are trusted proxy IPs, if you use them, or else players could fake their IP). And be sure to also set X-Forwarded-Host, X-Forwarded-Port and set X-Forwarded-Proto, because we use it for CORS and redirecion.
 
 ### Auto-Start
 To have the canvas with all it's components autostart at systemstart,
@@ -209,9 +209,9 @@ And then setup pm2 startup with:
 pm2 startup
 ```
 
-(execute as the user that is running pixelplanet)
-And follow the printed steps if needed. This will generate a systemctl service file `/etc/systemd/system/pm2-pixelplanet.service` and enable it. You will have to run `pm2 save` while the canvas is running to let pm2 know what to start.
-To make sure that mysql and redis are up when pixelplanet starts, edit this service file and modify the lines:
+(execute as the user that is running PixelWar)
+And follow the printed steps if needed. This will generate a systemctl service file `/etc/systemd/system/pm2-PixelWar.service` and enable it. You will have to run `pm2 save` while the canvas is running to let pm2 know what to start.
+To make sure that mysql and redis are up when PixelWar starts, edit this service file and modify the lines:
 
 ```
 Wants=network-online.target
@@ -224,11 +224,11 @@ Hourly event is an MMORPG style event that launches once in two hours where user
 
 ## Backups and Historical View
 
-PixelPlanet includes a backup script that creates full canvas backups daily in the form of PNG tile files and incremential backups all 15min (or whatever you define) that saves PNG tiles with just the differences since the last full daily backup.
+PixelWar includes a backup script that creates full canvas backups daily in the form of PNG tile files and incremential backups all 15min (or whatever you define) that saves PNG tiles with just the differences since the last full daily backup.
 
 It requires a [second running redis instance](https://www.digitalocean.com/community/questions/multiple-redis-instances-on-ubuntu-16-04).
 
-The backup script gets built when building pixelplanet and also gets copied to `dist/` directory. You can run it with:
+The backup script gets built when building PixelWar and also gets copied to `dist/` directory. You can run it with:
 
 ```
 node backup.js REDIS_URL_CANVAS REDIS_URL_BACKUP BACKUP_DIRECTORY [INTERVAL] [COMMAND]
@@ -238,7 +238,7 @@ Make sure to get the order right, because the backup redis instance will be over
 Interval is the time in minutes between incremential backups. If interval is undefined, it will just make one backup and then exit.
 If command is defined, it will be executed after every backup (just one command, with no arguments, like "dosomething.sh"), this is useful for synchronisation with a storage server i.e.. Look into `utils/backupServer` for some scripts and info on how to run it.
 
-You can run it with pm2, just like pixelplanet. An example ecosystem-backup.example.yml file will be located in the dist directory.
+You can run it with pm2, just like PixelWar. An example ecosystem-backup.example.yml file will be located in the dist directory.
 
 Note:
 
@@ -246,7 +246,7 @@ Note:
 
 ![historicalview](promotion/historicalview.gif)
 
-Pixelplanet is able to let the user browse through the past with those backups. For this you need to define `BACKUP_URL` and `BACKUP_DIR` in your ecosystem.yml for pixelplanet.
+PixelWar is able to let the user browse through the past with those backups. For this you need to define `BACKUP_URL` and `BACKUP_DIR` in your ecosystem.yml for PixelWar.
 `BACKUP_URL` is the URL where the backup folder is available. You have to let another server serve those files or use nginx.
 `BACKUP_DIR` is the full path of the local directory where the backup is located (whats set as `BACKUP_DIRECTORY` in the command of the backup.js).
 

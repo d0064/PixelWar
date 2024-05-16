@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-19 23:04+0000\n"
 "Last-Translator: Negru Berg <denisfagetan975@gmail.com>\n"
-"Language-Team: Romanian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Romanian <https://hosted.weblate.org/projects/PixelWar/"
 "server/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -94,8 +94,8 @@ msgid "Invalid url :( Please check your mail again."
 msgstr "Url invalid :( Te rog verifică mailul din nou."
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
-msgstr "3DGlob PixelPlanet.Fun"
+msgid "PixelWar.Fun 3DGlobe"
+msgstr "3DGlob PixelWar.Fun"
 
 #: src/ssr/Globe.jsx:38
 msgid "A 3D globe of our whole map"
@@ -114,12 +114,12 @@ msgid "ppfun"
 msgstr "ppfun"
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
-msgstr "PixelPlanet.Fun PopUp"
+msgid "PixelWar.Fun PopUp"
+msgstr "PixelWar.Fun PopUp"
 
 #: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
-msgstr "PixelPlanet.Fun"
+msgid "PixelWar.Fun"
+msgstr "PixelWar.Fun"
 
 #: src/ssr/Main.jsx:66
 msgid "Place color pixels on an map styled canvas with other players online"
@@ -175,8 +175,8 @@ msgid "Password must be shorter than 60 characters."
 msgstr "Parola trebuie să aibă mai puțin de 60 de litere."
 
 #: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
-msgstr "PixelPlanet.fun Resetare Parolă"
+msgid "PixelWar.Fun Password Reset"
+msgstr "PixelWar.Fun Resetare Parolă"
 
 #: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
 msgid "Reset your password here"
@@ -192,8 +192,8 @@ msgid "Click here"
 msgstr "Apasă aici"
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
-msgstr "Pentru a merge înapoi pe pixelplanet"
+msgid "to go back to PixelWar"
+msgstr "Pentru a merge înapoi pe PixelWar"
 
 #: src/ssr/PasswordReset.jsx:50
 #, javascript-format
@@ -309,8 +309,8 @@ msgid "Muted Users can not do this."
 msgstr "Utilizatorul desconectat nu poate face asta."
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
-msgstr "Conturi PixelPlanet.fun"
+msgid "PixelWar.Fun Accounts"
+msgstr "Conturi PixelWar.Fun"
 
 #: src/ssr/RedirectionPage.jsx:29
 msgid "You will be automatically redirected after 15s"
@@ -318,8 +318,8 @@ msgstr "Vei fi redirecționat automatic după 15 secunde"
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
-msgstr "Sau ${ clickHere } pentru a merge înapoi la pixelplanet"
+msgid "Or ${ clickHere } to go back to PixelWar"
+msgstr "Sau ${ clickHere } pentru a merge înapoi la PixelWar"
 
 #: src/canvasesDesc.js:20
 msgid "Earth"
@@ -417,8 +417,8 @@ msgstr ""
 
 #: src/core/MailProvider.js:66
 #, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
-msgstr "Bine ai venit ${ name } la PixelPlanet, te rog verifică-ți mailul"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
+msgstr "Bine ai venit ${ name } la PixelWar, te rog verifică-ți mailul"
 
 #: src/core/MailProvider.js:67
 #, javascript-format
@@ -460,8 +460,8 @@ msgstr ""
 "minute."
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
-msgstr "Ți-ai uitat parola pentru PixelPlanet? Fă-ți una nouă aici"
+msgid "You forgot your password for PixelWar? Get a new one here"
+msgstr "Ți-ai uitat parola pentru PixelWar? Fă-ți una nouă aici"
 
 #: src/core/MailProvider.js:104
 msgid "Hello"
@@ -534,9 +534,9 @@ msgstr "Nu am putut găsi acest mail în datele noastre de bază"
 #~ msgid "Error :("
 #~ msgstr "Eroare :("
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr ""
-#~ "Nu am primit niciun răspuns de la pixelplanet. Poate încearcă să "
+#~ "Nu am primit niciun răspuns de la PixelWar. Poate încearcă să "
 #~ "reîncarci pagina?"
 
 #~ msgid "Invalid Canvas"
@@ -606,10 +606,10 @@ msgstr "Nu am putut găsi acest mail în datele noastre de bază"
 #~ msgstr "Pauză"
 
 #~ msgid ""
-#~ "Didn't get an answer from pixelplanet. Maybe try to refresh if problem "
+#~ "Didn't get an answer from PixelWar. Maybe try to refresh if problem "
 #~ "persists?"
 #~ msgstr ""
-#~ "Nu am primit niciun răspuns de la pixelplanet. Încearcă să dai refresh "
+#~ "Nu am primit niciun răspuns de la PixelWar. Încearcă să dai refresh "
 #~ "daca problema persistă?"
 
 #~ msgid "Weird"
@@ -653,8 +653,8 @@ msgstr "Nu am putut găsi acest mail în datele noastre de bază"
 #~ msgid "Your next pixels are ready"
 #~ msgstr "Pixelii tăi următori sunt gata"
 
-#~ msgid "You can now place more on pixelplanet.fun :)"
-#~ msgstr "Acum poți pune mai mult pe pixelplanet.fun :)"
+#~ msgid "You can now place more on PixelWar.Fun :)"
+#~ msgstr "Acum poți pune mai mult pe PixelWar.Fun :)"
 
 #~ msgid "mentioned you"
 #~ msgstr "te-a menționat"
@@ -856,8 +856,8 @@ msgstr "Nu am putut găsi acest mail în datele noastre de bază"
 #~ msgid "Themes"
 #~ msgstr "Teme"
 
-#~ msgid "How pixelplanet should look like."
-#~ msgstr "Cum pixelplanet ar trebui să arate."
+#~ msgid "How PixelWar should look like."
+#~ msgstr "Cum PixelWar ar trebui să arate."
 
 #~ msgid "Select Language"
 #~ msgstr "Selectează limba"

@@ -7,8 +7,8 @@ import asyncio
 import aiohttp
 
 USER_AGENT = "ppfun historyDownload 1.0 " + ' '.join(sys.argv[1:])
-PPFUN_URL = "https://pixelplanet.fun"
-PPFUN_STORAGE_URL = "https://storage.pixelplanet.fun"
+PPFUN_URL = "https://PixelWar.fun"
+PPFUN_STORAGE_URL = "https://storage.PixelWar.fun"
 
 # how many frames to skip
 #  1 means none
@@ -164,12 +164,12 @@ async def main():
     apime = await fetchMe()
 
     if len(sys.argv) != 5 and len(sys.argv) != 6:
-        print("Download history of an area of pixelplanet - useful for timelapses")
+        print("Download history of an area of PixelWar - useful for timelapses")
         print("")
         print("Usage:    historyDownload.py canvasID startX_startY endX_endY start_date [end_date]")
         print("")
         print("→start_date and end_date are in YYYY-MM-dd formate")
-        print("→user R key on pixelplanet to copy coordinates)")
+        print("→user R key on PixelWar to copy coordinates)")
         print("→images will be saved into timelapse folder)")
         print("canvasID: ", end='')
         for canvas_id, canvas in apime['canvases'].items():

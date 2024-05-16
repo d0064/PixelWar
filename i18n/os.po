@@ -70,9 +70,9 @@ msgstr ""
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
-msgstr "Pixelplanet'мæ дзуаппы райс нæй? Чи зоны бафæлвар сног кæнын?"
+msgstr "PixelWar'мæ дзуаппы райс нæй? Чи зоны бафæлвар сног кæнын?"
 
 #: src/ui/PixelTransferController.js:104
 msgid "Invalid Canvas"
@@ -254,7 +254,7 @@ msgid "Your next pixels are ready"
 msgstr ""
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr ""
 
 #: src/store/middleware/notifications.js:54
@@ -815,8 +815,8 @@ msgid "Themes"
 msgstr "Темтæ"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Куыд дарын pixelplanet йæ бакаст."
+msgid "How PixelWar should look like."
+msgstr "Куыд дарын PixelWar йæ бакаст."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1825,8 +1825,8 @@ msgstr ""
 #~ "Уром рахиз джыбы ${bindShift} æрбынатæн бынатаивд мыст цур æмбæрдзинады "
 #~ "историкон афæлгæстимæ"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Pixelplanet'мæ дзуаппы райс нæй? Чи зоны бафæлвар сног кæнын?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "PixelWar'мæ дзуаппы райс нæй? Чи зоны бафæлвар сног кæнын?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Стылдæр равæрын :)"
@@ -1843,8 +1843,8 @@ msgstr ""
 #~ msgid "Partners:"
 #~ msgstr "Æмбалтæ:"
 
-#~ msgid "Welcome to PixelPlanet.fun"
-#~ msgstr "Табуафси PixelPlanet.fun'мæ"
+#~ msgid "Welcome to PixelWar.Fun"
+#~ msgstr "Табуафси PixelWar.Fun'мæ"
 
 #~ msgid "Ranking"
 #~ msgstr "Рейтинг"

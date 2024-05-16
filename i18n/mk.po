@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-04-09 20:01+0000\n"
 "Last-Translator: FOXHELL <foxhell768@gmail.com>\n"
-"Language-Team: Macedonian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Macedonian <https://hosted.weblate.org/projects/PixelWar/"
 "client/mk/>\n"
 "Language: mk\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -66,7 +66,7 @@ msgstr "Тајмаут"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
 "Не си добил/а одговор од Пикселпланета. Обиди се да го искористиш F5 или "
@@ -247,7 +247,7 @@ msgid "Your next pixels are ready"
 msgstr ""
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr ""
 
 #: src/store/middleware/notifications.js:54
@@ -776,7 +776,7 @@ msgid "Themes"
 msgstr "Теми"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
+msgid "How PixelWar should look like."
 msgstr "Како пиксел планет би требала да изгледа."
 
 #: src/components/windows/Settings.jsx:190

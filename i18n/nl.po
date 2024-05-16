@@ -70,10 +70,10 @@ msgstr "Time-out"
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Geen antwoord gekregen van pixelplanet. Misschien proberen te vernieuwen als "
+"Geen antwoord gekregen van PixelWar. Misschien proberen te vernieuwen als "
 "het probleem zich blijft voordoen?"
 
 #: src/ui/PixelTransferController.js:104
@@ -255,8 +255,8 @@ msgid "Your next pixels are ready"
 msgstr "Je volgende pixels zijn klaar"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Je kunt nu meer plaatsen op pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Je kunt nu meer plaatsen op PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -826,8 +826,8 @@ msgid "Themes"
 msgstr "Thema’s"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Hoe pixelplanet eruit zou moeten zien."
+msgid "How PixelWar should look like."
+msgstr "Hoe PixelWar eruit zou moeten zien."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1837,9 +1837,9 @@ msgstr ""
 #~ "Houd rechts ${ bindShift } ingedrukt om te plaatsen terwijl u de muis "
 #~ "beweegt volgens de geschiedenis weergave"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr ""
-#~ "Geen antwoord gekregen van pixelplanet. Misschien eens proberen te "
+#~ "Geen antwoord gekregen van PixelWar. Misschien eens proberen te "
 #~ "vernieuwen?"
 
 #~ msgid "Place more :)"

@@ -20,7 +20,7 @@ function appendHexColorText(clr) {
 
 function printGIMPPalette(title, description, colors) {
   let text = `GIMP Palette
-#Palette Name: Pixelplanet${title}
+#Palette Name: PixelWar${title}
 #Description: ${description}
 #Colors: ${colors.length}`;
   colors.forEach((clr) => {

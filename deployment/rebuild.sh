@@ -1,12 +1,12 @@
 #!/bin/bash
-# Rebuild and Restert pixelplanet
+# Rebuild and Restert PixelWar
 
 #folder for building the canvas (the git repository will get checkout there and the canvas will get buil thtere)
-BUILDDIR="/home/pixelpla/pixelplanet-build"
+BUILDDIR="/home/pixelpla/PixelWar-build"
 #folder for dev canvas
-DEVFOLDER="/home/pixelpla/pixelplanet-dev"
+DEVFOLDER="/home/pixelpla/PixelWar-dev"
 #folder for production canvas
-PFOLDER="/home/pixelpla/pixelplanet"
+PFOLDER="/home/pixelpla/PixelWar"
 #which branch to use
 BRANCH="master"
 
@@ -48,7 +48,7 @@ cd "$BUILDDIR"
 GIT_WORK_TREE="$BUILDDIR" GIT_DIR="${BUILDDIR}/.git" git fetch --all
 echo "---UPDATING REPO ON PRODUCTION SERVER---"
 GIT_WORK_TREE="$BUILDDIR" GIT_DIR="${BUILDDIR}/.git" git reset --hard "origin/${BRANCH}"
-echo "---BUILDING pixelplanet---"
+echo "---BUILDING PixelWar---"
 should_reinstall master
 DO_REINSTALL=$?
 [ $DO_REINSTALL -eq 0 ] && npm_reinstall

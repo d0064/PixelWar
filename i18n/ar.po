@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-03-11 15:02+0000\n"
 "Last-Translator: FOXHELL <foxhell768@gmail.com>\n"
-"Language-Team: Arabic <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/PixelWar/"
 "client/ar/>\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -69,10 +69,10 @@ msgstr "نفذ الوقت"
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"لم أحصل على إجابة من PixelPlanet. ربما حاول التحديث إذا استمرت المشكلة؟"
+"لم أحصل على إجابة من PixelWar. ربما حاول التحديث إذا استمرت المشكلة؟"
 
 #: src/ui/PixelTransferController.js:104
 msgid "Invalid Canvas"
@@ -252,7 +252,7 @@ msgid "Your next pixels are ready"
 msgstr "لقد هاجمنا الصليبيون"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr "لقد هاجمنا الصليبيون! تعال للمساعدة"
 
 #: src/store/middleware/notifications.js:54
@@ -779,7 +779,7 @@ msgid "Themes"
 msgstr ""
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
+msgid "How PixelWar should look like."
 msgstr ""
 
 #: src/components/windows/Settings.jsx:190
@@ -1725,8 +1725,8 @@ msgctxt "keybinds"
 msgid "T"
 msgstr ""
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "لم أحصل على إجابة من PixelPlanet. ربما تحاول التحديث؟"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "لم أحصل على إجابة من PixelWar. ربما تحاول التحديث؟"
 
 #~ msgid "Place more :)"
 #~ msgstr "ضع المزيد :)"

@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-05-09 14:07+0000\n"
 "Last-Translator: Артем Юрченко <artemkaago@gmail.com>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Russian <https://hosted.weblate.org/projects/PixelWar/"
 "client/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -70,10 +70,10 @@ msgstr "Тайм-аут"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Нет ответа от pixelplanet. Попробуйте обновить страницу, если проблема не "
+"Нет ответа от PixelWar. Попробуйте обновить страницу, если проблема не "
 "исчезнет."
 
 #: src/ui/PixelTransferController.js:104
@@ -253,8 +253,8 @@ msgid "Your next pixels are ready"
 msgstr "Ваши новые пиксели готовы"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Вы можете рисовать дальше на pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Вы можете рисовать дальше на PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -823,8 +823,8 @@ msgid "Themes"
 msgstr "Темы"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Как должен выглядеть pixelplanet."
+msgid "How PixelWar should look like."
+msgstr "Как должен выглядеть PixelWar."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1844,8 +1844,8 @@ msgstr "T"
 #~ msgstr ""
 #~ "При нажатии правого шифта ставит пиксели по шаблону, а не по истории."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Нет ответа от pixelplanet. Может попробовать обновить страницу?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "Нет ответа от PixelWar. Может попробовать обновить страницу?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Ставьте больше :)"

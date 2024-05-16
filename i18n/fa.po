@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-10 17:53+0000\n"
 "Last-Translator: Ahoura <ahoura053@gmail.com>\n"
-"Language-Team: Persian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Persian <https://hosted.weblate.org/projects/PixelWar/"
 "client/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -71,7 +71,7 @@ msgstr "سید سایتو پاره کردی تابم اوت خوردی، رفر�
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr "هیچ جوابی از سایت نگرفتیم ، رفرش کن"
 
@@ -259,7 +259,7 @@ msgid "Your next pixels are ready"
 msgstr "پیکسل های بعدی تو آماده هستن سید"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr "حالا میتونی پیکسل های بیشتری بزاری :)"
 
 #: src/store/middleware/notifications.js:54
@@ -820,7 +820,7 @@ msgid "Themes"
 msgstr "تِم ها"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
+msgid "How PixelWar should look like."
 msgstr "پیکسل پلنت باید چطوری دیده بشه."
 
 #: src/components/windows/Settings.jsx:190
@@ -1827,7 +1827,7 @@ msgstr ""
 #~ "شیفت راست ${ bindShift } نگه دار تا وقتی موس تکون میخوره، توی دید تاریخی "
 #~ "پیکسل گذاشته بشه"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr ""
 #~ "سید توطئه کردی؟ از سایت جوابی نگرفتیم سید، فکر کنم رفرش کنی درست بشه"
 

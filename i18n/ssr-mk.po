@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-04-05 21:01+0000\n"
 "Last-Translator: David <stojanovskidavid74@gmail.com>\n"
-"Language-Team: Macedonian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Macedonian <https://hosted.weblate.org/projects/PixelWar/"
 "server/mk/>\n"
 "Language: mk\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -90,7 +90,7 @@ msgid "Invalid url :( Please check your mail again."
 msgstr ""
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
+msgid "PixelWar.Fun 3DGlobe"
 msgstr ""
 
 #: src/ssr/Globe.jsx:38
@@ -110,11 +110,11 @@ msgid "ppfun"
 msgstr "ппфун"
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
+msgid "PixelWar.Fun PopUp"
 msgstr ""
 
 #: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
+msgid "PixelWar.Fun"
 msgstr ""
 
 #: src/ssr/Main.jsx:66
@@ -170,7 +170,7 @@ msgid "Password must be shorter than 60 characters."
 msgstr ""
 
 #: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
+msgid "PixelWar.Fun Password Reset"
 msgstr ""
 
 #: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
@@ -187,7 +187,7 @@ msgid "Click here"
 msgstr ""
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
+msgid "to go back to PixelWar"
 msgstr ""
 
 #: src/ssr/PasswordReset.jsx:50
@@ -302,7 +302,7 @@ msgid "Muted Users can not do this."
 msgstr ""
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
+msgid "PixelWar.Fun Accounts"
 msgstr ""
 
 #: src/ssr/RedirectionPage.jsx:29
@@ -311,7 +311,7 @@ msgstr ""
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
+msgid "Or ${ clickHere } to go back to PixelWar"
 msgstr ""
 
 #: src/canvasesDesc.js:20
@@ -402,7 +402,7 @@ msgstr ""
 
 #: src/core/MailProvider.js:66
 #, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
 msgstr ""
 
 #: src/core/MailProvider.js:67
@@ -441,7 +441,7 @@ msgid ""
 msgstr ""
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
+msgid "You forgot your password for PixelWar? Get a new one here"
 msgstr ""
 
 #: src/core/MailProvider.js:104

@@ -8,9 +8,9 @@
  * @author erich666 / http://erichaines.com
  * @author ScieCode / http://github.com/sciecode
  *
- * Changed for pixelplanet by
+ * Changed for PixelWar by
  *
- * @author hf / http://git.pixelplanet.fun/hf
+ * @author hf / http://git.PixelWar.fun/hf
  */
 
 /* eslint-disable no-console */

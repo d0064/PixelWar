@@ -3,7 +3,7 @@
 This websocket provides unlimited access to many functions of the site, it is used for Discord Chat Bridge and similar stuff.
 
 Websocket url:
-`https://[dev.]pixelplanet.fun/mcws`
+`https://[dev.]PixelWar.fun/mcws`
 
 Connection just possible with header:
 

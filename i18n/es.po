@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-05-09 14:07+0000\n"
 "Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/PixelWar/"
 "client/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -69,10 +69,10 @@ msgstr "Se acabó el tiempo"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"No se recibió una respuesta de pixelplanet. Intenta actualizar si el "
+"No se recibió una respuesta de PixelWar. Intenta actualizar si el "
 "problema persiste."
 
 #: src/ui/PixelTransferController.js:104
@@ -252,8 +252,8 @@ msgid "Your next pixels are ready"
 msgstr "Tus próximos píxeles están listos"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Ahora puedes colocar más en pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Ahora puedes colocar más en PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -823,8 +823,8 @@ msgid "Themes"
 msgstr "Temas"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Cómo debería verse pixelplanet."
+msgid "How PixelWar should look like."
+msgstr "Cómo debería verse PixelWar."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1826,8 +1826,8 @@ msgstr "T"
 #~ "Mantenga presionado ${ bindShift } derecho para colocar pixeles mientras "
 #~ "al mover el ratón a partir de la vista histórica"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "No se recibió una respuesta de pixelplanet. Intenta actualizar"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "No se recibió una respuesta de PixelWar. Intenta actualizar"
 
 #~ msgid "Place more :)"
 #~ msgstr "Coloca mas píxeles :)"
@@ -1844,8 +1844,8 @@ msgstr "T"
 #~ msgid "Partners:"
 #~ msgstr "Colaboradores:"
 
-#~ msgid "Welcome to PixelPlanet.fun"
-#~ msgstr "Bienvenido a PixelPlanet.fun"
+#~ msgid "Welcome to PixelWar.Fun"
+#~ msgstr "Bienvenido a PixelWar.Fun"
 
 #~ msgid "Ranking"
 #~ msgstr "Ranking"

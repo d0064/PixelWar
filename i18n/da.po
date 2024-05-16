@@ -5,7 +5,7 @@ msgstr ""
 "PO-Revision-Date: 2024-03-12 19:57+0000\n"
 "Last-Translator: Rasmus Emil Rattanamongkut Seitzberg "
 "<Rasmusemilseitz@outlook.dk>\n"
-"Language-Team: Danish <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Danish <https://hosted.weblate.org/projects/PixelWar/"
 "client/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -70,10 +70,10 @@ msgstr "Timeout"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Fik ikke et svar fra pixelplanet. Prøv måske at genindlæse hvis problemet "
+"Fik ikke et svar fra PixelWar. Prøv måske at genindlæse hvis problemet "
 "vedvarer?"
 
 #: src/ui/PixelTransferController.js:104
@@ -253,8 +253,8 @@ msgid "Your next pixels are ready"
 msgstr "Dine næste pixels er klar"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Du kan nu placere mere på pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Du kan nu placere mere på PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -811,8 +811,8 @@ msgid "Themes"
 msgstr "Temaer"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Hvordan pixelplanet burde se ud."
+msgid "How PixelWar should look like."
+msgstr "Hvordan PixelWar burde se ud."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1824,8 +1824,8 @@ msgstr "T"
 #~ msgstr ""
 #~ "Placér pixels fra overlejring på højre-shift, i stedet for historie."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Fik ikke et svar fra pixelplanet. Måske prøv at genindlæse?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "Fik ikke et svar fra PixelWar. Måske prøv at genindlæse?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Placer mere :)"

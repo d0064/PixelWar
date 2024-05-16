@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-10 20:10+0000\n"
 "Last-Translator: γιαννης <ertjokk432@gmail.com>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/pixelplanet/client/"
+"Language-Team: Greek <https://hosted.weblate.org/projects/PixelWar/client/"
 "el/>\n"
 "Language: gr\n"
 "MIME-Version: 1.0\n"
@@ -71,10 +71,10 @@ msgstr "Τέλος χρόνου"
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Δεν λάβατε απάντηση από το pixelplanet; Ίσως προσπαθήσετε να ανανεώσετε την "
+"Δεν λάβατε απάντηση από το PixelWar; Ίσως προσπαθήσετε να ανανεώσετε την "
 "σελίδα;"
 
 #: src/ui/PixelTransferController.js:104
@@ -261,8 +261,8 @@ msgid "Your next pixels are ready"
 msgstr "Τα επόμενα pixel σας είναι έτοιμα"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Τώρα μπορείτε να τοποθετήσετε περισσότερα στο pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Τώρα μπορείτε να τοποθετήσετε περισσότερα στο PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -836,8 +836,8 @@ msgid "Themes"
 msgstr "Θέματα"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Πώς πρέπει να μοιάζει το pixelplanet."
+msgid "How PixelWar should look like."
+msgstr "Πώς πρέπει να μοιάζει το PixelWar."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1853,9 +1853,9 @@ msgstr ""
 #~ "Κρατήστε το δεξί ${ bindShift } για τοποθέτηση ενώ μετακινείτε το ποντίκι "
 #~ "σύμφωνα με την ιστορική προβολή"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr ""
-#~ "Δεν λάβατε απάντηση από το pixelplanet; Ίσως προσπαθήσετε να ανανεώσετε "
+#~ "Δεν λάβατε απάντηση από το PixelWar; Ίσως προσπαθήσετε να ανανεώσετε "
 #~ "την σελίδα;"
 
 #~ msgid "Place more :)"

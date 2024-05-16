@@ -102,8 +102,8 @@ msgid "Invalid url :( Please check your mail again."
 msgstr "ʻIkai tonu e :( URL Kātaki ʻo toe vakaiʻi hoʻo meilí."
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
-msgstr "PixelPlanet.Fun 3DGlobe"
+msgid "PixelWar.Fun 3DGlobe"
+msgstr "PixelWar.Fun 3DGlobe"
 
 #: src/ssr/Globe.jsx:38
 msgid "A 3D globe of our whole map"
@@ -122,12 +122,12 @@ msgid "ppfun"
 msgstr "ppfun"
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
-msgstr "PixelPlanet.Fun PopUp"
+msgid "PixelWar.Fun PopUp"
+msgstr "PixelWar.Fun PopUp"
 
 #: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
-msgstr "PixelPlanet.Fun"
+msgid "PixelWar.Fun"
+msgstr "PixelWar.Fun"
 
 #: src/ssr/Main.jsx:66
 msgid "Place color pixels on an map styled canvas with other players online"
@@ -185,8 +185,8 @@ msgid "Password must be shorter than 60 characters."
 msgstr "Kuo pau ke nounou ange ʻa e lea fufuú ʻi he mataʻitohi ʻe 60."
 
 #: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
-msgstr "Toe Fakafoʻou e Lea Fufuú PixelPlanet.fun"
+msgid "PixelWar.Fun Password Reset"
+msgstr "Toe Fakafoʻou e Lea Fufuú PixelWar.Fun"
 
 #: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
 msgid "Reset your password here"
@@ -202,8 +202,8 @@ msgid "Click here"
 msgstr "Lomiʻi heni"
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
-msgstr "ke foki ki pixelplanet"
+msgid "to go back to PixelWar"
+msgstr "ke foki ki PixelWar"
 
 #: src/ssr/PasswordReset.jsx:50
 #, javascript-format
@@ -320,8 +320,8 @@ msgid "Muted Users can not do this."
 msgstr ""
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
-msgstr "Ngaahi ʻAkauni PixelPlanet.fun"
+msgid "PixelWar.Fun Accounts"
+msgstr "Ngaahi ʻAkauni PixelWar.Fun"
 
 #: src/ssr/RedirectionPage.jsx:29
 msgid "You will be automatically redirected after 15s"
@@ -329,8 +329,8 @@ msgstr "ʻE toe fakafoki fakahangatonu atu koe hili 15s"
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
-msgstr "Pe ${ clickHere } ke foki ki pixelplanet"
+msgid "Or ${ clickHere } to go back to PixelWar"
+msgstr "Pe ${ clickHere } ke foki ki PixelWar"
 
 #: src/canvasesDesc.js:20
 msgid "Earth"
@@ -430,9 +430,9 @@ msgstr ""
 
 #: src/core/MailProvider.js:66
 #, fuzzy, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
 msgstr ""
-"Talitali lelei ʻa e ${ name } ki he PixelPlanet, plese fakapapauʻi hoʻo meili"
+"Talitali lelei ʻa e ${ name } ki he PixelWar, plese fakapapauʻi hoʻo meili"
 
 #: src/core/MailProvider.js:67
 #, javascript-format
@@ -477,8 +477,8 @@ msgstr ""
 "miniti ʻe ${ minLeft }."
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
-msgstr "Naʻe ngalo hoʻo lea fufuu ki he PixelPlanet? Maʻu ha taha foʻou heni"
+msgid "You forgot your password for PixelWar? Get a new one here"
+msgstr "Naʻe ngalo hoʻo lea fufuu ki he PixelWar? Maʻu ha taha foʻou heni"
 
 #: src/core/MailProvider.js:104
 msgid "Hello"

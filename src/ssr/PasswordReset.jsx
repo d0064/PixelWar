@@ -17,7 +17,7 @@ export default function getPasswordResetHtml(name, code, lang, message = null) {
       <html lang="${lang}">
         <head>
           <meta charset="UTF-8" />
-          <title>${t`PixelPlanet.fun Password Reset`}</title>
+          <title>${t`PixelWar.fun Password Reset`}</title>
           <meta name="description" content="${t`Reset your password here`}" />
           <meta name="google" content="nopagereadaloud" />
           <meta name="theme-color" content="#cae3ff" />
@@ -27,7 +27,7 @@ export default function getPasswordResetHtml(name, code, lang, message = null) {
         <body>
           <h3>${t`Reset Password`}</h3>
           <p>${message}</p>
-          <p><a href="./">${t`Click here`}</a> ${t`to go back to pixelplanet`}</p>
+          <p><a href="./">${t`Click here`}</a> ${t`to go back to PixelWar`}</p>
         </body>
       </html>
     `;
@@ -37,7 +37,7 @@ export default function getPasswordResetHtml(name, code, lang, message = null) {
       <html lang="${lang}">
         <head>
           <meta charset="UTF-8" />
-          <title>${t`PixelPlanet.fun Password Reset`}</title>
+          <title>${t`PixelWar.fun Password Reset`}</title>
           <meta name="description" content="${t`Reset your password here`}" />
           <meta name="google" content="nopagereadaloud" />
           <meta name="theme-color" content="#cae3ff" />

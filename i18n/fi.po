@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-04-09 20:01+0000\n"
 "Last-Translator: FOXHELL <foxhell768@gmail.com>\n"
-"Language-Team: Finnish <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Finnish <https://hosted.weblate.org/projects/PixelWar/"
 "client/fi/>\n"
 "Language: fi\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -68,9 +68,9 @@ msgstr "Aikakatkaisu"
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
-msgstr "PixelPlanet ei vastaa. Kokeile päivittää sivu, jos ongelma jatkuu?"
+msgstr "PixelWar ei vastaa. Kokeile päivittää sivu, jos ongelma jatkuu?"
 
 #: src/ui/PixelTransferController.js:104
 msgid "Invalid Canvas"
@@ -252,8 +252,8 @@ msgid "Your next pixels are ready"
 msgstr "Seuraavat pikselisi ovat valmiina"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Voit nyt asettaa lisää pikseleitä pixelplanet.fun:ssa :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Voit nyt asettaa lisää pikseleitä PixelWar.Fun:ssa :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -812,8 +812,8 @@ msgid "Themes"
 msgstr "Teemat"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Miltä pixelplanetin pitäisi näyttää."
+msgid "How PixelWar should look like."
+msgstr "Miltä PixelWarin pitäisi näyttää."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1814,8 +1814,8 @@ msgstr "T"
 #~ "historian tilalta. Painamalla oikeaa shiftiä pohjassa, peli valitsee "
 #~ "värit automaattisesti päällystystä käytettäessä."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "PixelPlanet ei vastaa. Kokeile ladata sivu uudelleen?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "PixelWar ei vastaa. Kokeile ladata sivu uudelleen?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Aseta lisää pikseleitä :)"

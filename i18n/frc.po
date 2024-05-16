@@ -61,7 +61,7 @@ msgstr ""
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
 
@@ -238,7 +238,7 @@ msgid "Your next pixels are ready"
 msgstr ""
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr ""
 
 #: src/store/middleware/notifications.js:54
@@ -765,7 +765,7 @@ msgid "Themes"
 msgstr ""
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
+msgid "How PixelWar should look like."
 msgstr ""
 
 #: src/components/windows/Settings.jsx:190

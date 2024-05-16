@@ -68,7 +68,7 @@ msgstr ""
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
 
@@ -251,7 +251,7 @@ msgid "Your next pixels are ready"
 msgstr ""
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr ""
 
 #: src/store/middleware/notifications.js:54
@@ -783,7 +783,7 @@ msgid "Themes"
 msgstr ""
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
+msgid "How PixelWar should look like."
 msgstr ""
 
 #: src/components/windows/Settings.jsx:190
@@ -1149,7 +1149,7 @@ msgstr "Nova password"
 #: src/components/UserAreaContent.jsx:128
 #, fuzzy
 msgid "Delete Account"
-msgstr "Account ri PixelPlanet.fun"
+msgstr "Account ri PixelWar.Fun"
 
 #: src/components/UserAreaContent.jsx:135
 msgid "Social Settings"
@@ -1791,8 +1791,8 @@ msgstr ""
 #~ msgid "Invalid url :( Please check your mail again."
 #~ msgstr "Url mmaliru,piffauri talia l'email arre..."
 
-#~ msgid "PixelPlanet.Fun 3DGlobe"
-#~ msgstr "PixelPlanet.Fun 3DGlobe"
+#~ msgid "PixelWar.Fun 3DGlobe"
+#~ msgstr "PixelWar.Fun 3DGlobe"
 
 #~ msgid "A 3D globe of our whole map"
 #~ msgstr "U globo 3d ri tutta a mappa"
@@ -1803,20 +1803,20 @@ msgstr ""
 #~ msgid "ppfun"
 #~ msgstr "ppfun"
 
-#~ msgid "PixelPlanet.Fun PopUp"
-#~ msgstr "PopUp ri PixelPlanet.Fun"
+#~ msgid "PixelWar.Fun PopUp"
+#~ msgstr "PopUp ri PixelWar.Fun"
 
-#~ msgid "PixelPlanet.Fun"
-#~ msgstr "PixelPlanet.Fun"
+#~ msgid "PixelWar.Fun"
+#~ msgstr "PixelWar.Fun"
 
-#~ msgid "PixelPlanet.fun Password Reset"
+#~ msgid "PixelWar.Fun Password Reset"
 #~ msgstr "Reset rila password"
 
 #~ msgid "Reset your password here"
 #~ msgstr "Resetta a password ca"
 
-#~ msgid "to go back to pixelplanet"
-#~ msgstr "va arre su Pixelplanet"
+#~ msgid "to go back to PixelWar"
+#~ msgstr "va arre su PixelWar"
 
 #, javascript-format
 #~ msgid "Hello ${ name }, you can set your new password here:"
@@ -1869,8 +1869,8 @@ msgstr ""
 #~ msgstr "Veni mannatu nala paggina automaticamente 'n 15s"
 
 #, javascript-format
-#~ msgid "Or ${ clickHere } to go back to pixelplanet"
-#~ msgstr "O ${ clickHere } Pi gghiri arre su pixelplanet"
+#~ msgid "Or ${ clickHere } to go back to PixelWar"
+#~ msgstr "O ${ clickHere } Pi gghiri arre su PixelWar"
 
 #~ msgid "Earth"
 #~ msgstr "Terra"
@@ -1928,8 +1928,8 @@ msgstr ""
 #~ "U canvas sulu pili iucatura chiu attiva d'aeri. Aggiurnamenti a 00:00 UTC."
 
 #, javascript-format
-#~ msgid "Welcome ${ name } to PixelPlanet, plese verify your mail"
-#~ msgstr "Binvinutu  ${ name } na pixelplanet, piffauri verifica a to email"
+#~ msgid "Welcome ${ name } to PixelWar, plese verify your mail"
+#~ msgstr "Binvinutu  ${ name } na PixelWar, piffauri verifica a to email"
 
 #~ msgid "Hello ${ name }"
 #~ msgstr "Salutamu ${ name }"
@@ -1963,7 +1963,7 @@ msgstr ""
 #~ "Mannamu gia n' email pi a verifica' ni po arrichiediri navutra fra "
 #~ "${ minLeft }  minuta."
 
-#~ msgid "You forgot your password for PixelPlanet? Get a new one here"
+#~ msgid "You forgot your password for PixelWar? Get a new one here"
 #~ msgstr "Addimenticasti a to password? arrichiedini navutra ca"
 
 #~ msgid "Hello"

@@ -70,9 +70,9 @@ msgstr ""
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
-msgstr "Resposton pixelplaneta ne estas. Provus refreŝigi?"
+msgstr "Resposton PixelWara ne estas. Provus refreŝigi?"
 
 #: src/ui/PixelTransferController.js:104
 msgid "Invalid Canvas"
@@ -252,7 +252,7 @@ msgid "Your next pixels are ready"
 msgstr ""
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr ""
 
 #: src/store/middleware/notifications.js:54
@@ -809,8 +809,8 @@ msgid "Themes"
 msgstr "Temar'"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Kiel pixelplanet devus verŝajni."
+msgid "How PixelWar should look like."
+msgstr "Kiel PixelWar devus verŝajni."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1817,8 +1817,8 @@ msgstr ""
 #~ "Premu kaj fiksu dekstran ${ bindShift } por meti dum muŝmovado, sekvante "
 #~ "historia vizaĵo"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Resposton pixelplaneta ne estas. Provus refreŝigi?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "Resposton PixelWara ne estas. Provus refreŝigi?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Metu pli ŭwŭ"
@@ -1868,8 +1868,8 @@ msgstr ""
 #~ "Ĉi tiu retejo estas malprotektita je hCAPTCHA kaj ĝia ${ hCaptchaPP } kaj "
 #~ "${ hCaptchaTOS } ."
 
-#~ msgid "Welcome to PixelPlanet.fun"
-#~ msgstr "Bonvenon al PixelPlanet.fun"
+#~ msgid "Welcome to PixelWar.Fun"
+#~ msgstr "Bonvenon al PixelWar.Fun"
 
 #~ msgid "Daily"
 #~ msgstr "Hodiaŭe"

@@ -26,7 +26,7 @@ export default {
   tiktok: TikTok,
   youtube: YouTube,
   'youtu.be': YouTube,
-  'matrix.pixelplanet.fun': Matrix,
+  'matrix.PixelWar.fun': Matrix,
   'i.4cdn.org': DirectLinkMedia,
   'i.imgur': DirectLinkMedia,
   'litter.catbox.moe': DirectLinkMedia,

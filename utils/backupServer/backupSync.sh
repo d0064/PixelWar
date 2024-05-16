@@ -12,7 +12,7 @@ if [ -d "${TMPDIR}/${DATE_YESTERDAY}" ]
 fi
 
 set -e
-rsync -r ${TMPDIR}/ backup@ayylmao:/backup/pixelplanet/canvas
+rsync -r ${TMPDIR}/ backup@ayylmao:/backup/PixelWar/canvas
 
 #clear current daily folder
 #we do NOT delete the daily folder itself, because the backup script would create

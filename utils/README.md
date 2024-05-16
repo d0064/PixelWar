@@ -39,7 +39,7 @@ This is used for creating timelapses, see the cmd help to know how
 **Requires:** aiohttp, asyncio and PIL python3 packages
 
 ## pp-center\*.png
-center logo of pixelplanet
+center logo of PixelWar
 
 ## change-canvasbackup
 just a script that got run once to add the missing tiles in historical view when  increasing the size of the moon canvas.

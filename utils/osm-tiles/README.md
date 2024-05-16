@@ -1,5 +1,5 @@
 # OSM tiles
-This osm tiles and pictures are just informational, they don't get used for creating the map on directly on pixelplanet.fun.
+This osm tiles and pictures are just informational, they don't get used for creating the map on directly on PixelWar.fun.
 
 ## Download zoomlevel 5
 1. download tiles

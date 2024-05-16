@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-12 19:57+0000\n"
 "Last-Translator: Giorgi <giorezo@icloud.com>\n"
-"Language-Team: Georgian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Georgian <https://hosted.weblate.org/projects/PixelWar/"
 "client/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -70,7 +70,7 @@ msgstr "შეცდომა"
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr "არ მოვიდა პასუხი პიქსელპლანეტიდან, ცადე დარეფრეშება საიტის?"
 
@@ -249,8 +249,8 @@ msgid "Your next pixels are ready"
 msgstr "თქვენი შემდეგი პიქსელები მზად არის"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "ახლა შეგიძლიათ მეტი განათავსოთ pixelplanet.fun-ზე :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "ახლა შეგიძლიათ მეტი განათავსოთ PixelWar.Fun-ზე :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -815,8 +815,8 @@ msgid "Themes"
 msgstr "თემები"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "როგორი უნდა გამოიყურებოდეს pixelplanet."
+msgid "How PixelWar should look like."
+msgstr "როგორი უნდა გამოიყურებოდეს PixelWar."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1829,7 +1829,7 @@ msgstr "ტ"
 #~ msgid "Place pixels from overlay on right-shift, instead of history."
 #~ msgstr "დასვით პიქსელები ივერლეიდან მარჯვენა შიფტით, ისტორიის ნაცვლად."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr "არ მოვიდა პასუხი პიქსელპლანეტიდან, ცადე დარეფრეშება საიტის?"
 
 #~ msgid "Place more :)"

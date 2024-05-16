@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-13 17:22+0000\n"
-"Last-Translator: HF <hf@pixelplanet.fun>\n"
-"Language-Team: Serbian <https://hosted.weblate.org/projects/pixelplanet/"
+"Last-Translator: HF <hf@PixelWar.Fun>\n"
+"Language-Team: Serbian <https://hosted.weblate.org/projects/PixelWar/"
 "client/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
@@ -70,7 +70,7 @@ msgstr "Pauza"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr "Došlo je do greške. Možda da pokušate da osvežite stranicu?"
 
@@ -250,8 +250,8 @@ msgid "Your next pixels are ready"
 msgstr "Tvoj ban ce isteci za"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Sada možeš da postavljaš više na pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Sada možeš da postavljaš više na PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -815,8 +815,8 @@ msgid "Themes"
 msgstr "Teme"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Kako pixelplanet treba da izgleda."
+msgid "How PixelWar should look like."
+msgstr "Kako PixelWar treba da izgleda."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1827,7 +1827,7 @@ msgstr "T"
 #~ "Postavi piksele sa preklapača slika sa desnim shiftom,umesto istorijskog "
 #~ "moda."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr "Došla je greška. Možda pokušajte da osvežite stranicu?"
 
 #~ msgid "Place more :)"
@@ -1848,8 +1848,8 @@ msgstr "T"
 #~ msgid "Restore my Password"
 #~ msgstr "Vrati moju lozinku"
 
-#~ msgid "Welcome to PixelPlanet.fun"
-#~ msgstr "Dobrodošli u PixelPlanet.fun"
+#~ msgid "Welcome to PixelWar.Fun"
+#~ msgstr "Dobrodošli u PixelWar.Fun"
 
 #~ msgid "Look at past Canvases"
 #~ msgstr "Gledaj u prošle kanvase"

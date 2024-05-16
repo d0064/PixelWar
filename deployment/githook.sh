@@ -1,13 +1,13 @@
 #!/bin/bash
-# This hook builds pixelplanet after a push to a development branch,
+# This hook builds PixelWar after a push to a development branch,
 # and starts the dev-canvas
 #
 # To set up a server to use this, you have to go through the building steps manually first.
 #
 #folder for building the canvas (the git repository will get checkout there and the canvas will get built thtere)
-BUILDDIR="/home/pixelpla/pixelplanet-build"
+BUILDDIR="/home/pixelpla/PixelWar-build"
 #folder for dev canvas
-DEVFOLDER="/home/pixelpla/pixelplanet-dev"
+DEVFOLDER="/home/pixelpla/PixelWar-dev"
 
 should_reinstall () {
     local TMPFILE="${BUILDDIR}/package.json.${1}.tmp"
@@ -53,7 +53,7 @@ do
         echo "---UPDATING REPO ON DEV SERVER---"
         pm2 stop ppfun-server-dev
         GIT_WORK_TREE="$BUILDDIR" GIT_DIR="${BUILDDIR}/.git" git reset --hard "origin/$branch"
-        echo "---BUILDING pixelplanet---"
+        echo "---BUILDING PixelWar---"
         should_reinstall dev
         DO_REINSTALL=$?
         [ $DO_REINSTALL -eq 0 ] && npm_reinstall

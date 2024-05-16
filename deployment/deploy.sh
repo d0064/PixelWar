@@ -1,5 +1,5 @@
 #!/bin/sh
 tar --exclude='./dist/tiles' --exclude='./dist/log' -cvJf /tmp/ppfun.tar.xz ./dist
-scp /tmp/ppfun.tar.xz pixelplanet:/tmp/
+scp /tmp/ppfun.tar.xz PixelWar:/tmp/
 rm /tmp/ppfun.tar.xz
-ssh pixelplanet ./deploy-from-temp.sh
+ssh PixelWar ./deploy-from-temp.sh

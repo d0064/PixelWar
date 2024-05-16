@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-04-16 07:23+0000\n"
 "Last-Translator: Aerobiosis <aerobiosis115@gmail.com>\n"
-"Language-Team: Catalan <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/PixelWar/"
 "client/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -71,10 +71,10 @@ msgstr ""
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"No s'ha obtingut cap resposta per part de PixelPlanet. Intenta refrescar la "
+"No s'ha obtingut cap resposta per part de PixelWar. Intenta refrescar la "
 "pàgina?"
 
 #: src/ui/PixelTransferController.js:104
@@ -258,7 +258,7 @@ msgid "Your next pixels are ready"
 msgstr ""
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr ""
 
 #: src/store/middleware/notifications.js:54
@@ -830,8 +830,8 @@ msgid "Themes"
 msgstr "Temes"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Com s'hauria de veure PixelPlanet."
+msgid "How PixelWar should look like."
+msgstr "Com s'hauria de veure PixelWar."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1843,9 +1843,9 @@ msgstr ""
 #~ "Mantén ${ bindShift } dret per col·locar mentre mous el ratolí per la "
 #~ "vista històrica"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr ""
-#~ "No s'ha obtingut cap resposta per part de PixelPlanet. Intenta refrescar "
+#~ "No s'ha obtingut cap resposta per part de PixelWar. Intenta refrescar "
 #~ "la pàgina?"
 
 #~ msgid "Place more :)"
@@ -1866,8 +1866,8 @@ msgstr ""
 #~ msgid "Restore my Password"
 #~ msgstr "Restaura la meva contrasenya"
 
-#~ msgid "Welcome to PixelPlanet.fun"
-#~ msgstr "Benvingut a PixelPlanet.fun"
+#~ msgid "Welcome to PixelWar.Fun"
+#~ msgstr "Benvingut a PixelWar.Fun"
 
 #~ msgid "Look at past Canvases"
 #~ msgstr "Mira llenços antics"

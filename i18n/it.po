@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-16 21:26+0000\n"
 "Last-Translator: PotRapid <pvprealminecraft@gmail.com>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Italian <https://hosted.weblate.org/projects/PixelWar/"
 "client/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -70,10 +70,10 @@ msgstr "Connessione persa"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Non è arrivata una risposta da pixelplanet. Prova a ricaricare se il "
+"Non è arrivata una risposta da PixelWar. Prova a ricaricare se il "
 "problema persiste"
 
 #: src/ui/PixelTransferController.js:104
@@ -254,8 +254,8 @@ msgid "Your next pixels are ready"
 msgstr "I tuoi prossimi pixel sono pronti"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Puoi piazzare di più su pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Puoi piazzare di più su PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -777,7 +777,7 @@ msgstr "Modalità Spranga"
 
 #: src/components/windows/Settings.jsx:139
 msgid "For when you are playing on a potato."
-msgstr "Così pixelplanet non farà una spranga sulle tue risorse"
+msgstr "Così PixelWar non farà una spranga sulle tue risorse"
 
 #: src/components/Converter.jsx:381 src/components/windows/Settings.jsx:142
 msgid "Light Grid"
@@ -817,8 +817,8 @@ msgid "Themes"
 msgstr "Temi"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Come pixelplanet dovrebbe essere esteticamente"
+msgid "How PixelWar should look like."
+msgstr "Come PixelWar dovrebbe essere esteticamente"
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1825,8 +1825,8 @@ msgstr ""
 #~ "Tieni premuto Tasto destro ${ bindShift } per piazzare secondo l'History "
 #~ "Mode mentre trascini il muose"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Non c'è stata risposta da pixelplanet. Prova a ricaricare?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "Non c'è stata risposta da PixelWar. Prova a ricaricare?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Piazza di più :)"

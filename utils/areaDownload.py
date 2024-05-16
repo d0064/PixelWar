@@ -6,28 +6,28 @@ import asyncio
 import aiohttp
 
 USER_AGENT = "ppfun areaDownload 1.0 " + ' '.join(sys.argv[1:])
-PPFUN_URL = "https://pixelplanet.fun"
+PPFUN_URL = "https://PixelWar.fun"
 
 class Color(object):
     def __init__(self, index, rgb):
         self.rgb = rgb
         self.index = index
 
-class EnumColorPixelplanet:
+class EnumColorPixelWar:
 
     ENUM = []
 
     def getColors(canvas):
         colors = canvas['colors']
         for i, color in enumerate(colors):
-            EnumColorPixelplanet.ENUM.append(Color(i, tuple(color)))
+            EnumColorPixelWar.ENUM.append(Color(i, tuple(color)))
     
     @staticmethod
     def index(i):
-        for color in EnumColorPixelplanet.ENUM:
+        for color in EnumColorPixelWar.ENUM:
             if i == color.index:
                 return color
-        return EnumColorPixelplanet.ENUM[0]
+        return EnumColorPixelWar.ENUM[0]
 
 class Matrix:
     def __init__(self):
@@ -116,7 +116,7 @@ async def fetch(session, canvas_id, canvasoffset, ix, iy, target_matrix):
                 off_x = ix * 256 + offset
                 off_y = iy * 256 + offset
                 if len(data) == 0:
-                    clr = EnumColorPixelplanet.index(0)
+                    clr = EnumColorPixelWar.index(0)
                     for i in range(256*256):
                         tx = off_x + i % 256 
                         ty = off_y + i // 256
@@ -127,7 +127,7 @@ async def fetch(session, canvas_id, canvasoffset, ix, iy, target_matrix):
                         tx = off_x + i % 256
                         ty = off_y + i // 256
                         bcl = b & 0x7F
-                        target_matrix.set_pixel(tx, ty, EnumColorPixelplanet.index(bcl))
+                        target_matrix.set_pixel(tx, ty, EnumColorPixelWar.index(bcl))
                         i += 1
                 print(f"Loaded {url} with {i} pixels")
                 break
@@ -202,9 +202,9 @@ async def main():
     apime = await fetchMe()
 
     if len(sys.argv) != 5:
-        print("Download an area of pixelplanet")
+        print("Download an area of PixelWar")
         print("Usage: areaDownload.py canvasID startX_startY endX_endY filename.png")
-        print("(use R key on pixelplanet to copy coordinates)")
+        print("(use R key on PixelWar to copy coordinates)")
         print("canvasID: ", end='')
         for canvas_id, canvas in apime['canvases'].items():
             if 'v' in canvas and canvas['v']:
@@ -235,7 +235,7 @@ async def main():
         w = w - x + 1
         h = h - y + 1
 
-    EnumColorPixelplanet.getColors(canvas)
+    EnumColorPixelWar.getColors(canvas)
     filename = sys.argv[4]
 
     matrix = await get_area(canvas_id, canvas, x, y, w, h)

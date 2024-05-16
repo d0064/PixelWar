@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-04-02 18:53+0000\n"
 "Last-Translator: sallbet <Sallbet@mail.ru>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Russian <https://hosted.weblate.org/projects/PixelWar/"
 "server/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -96,8 +96,8 @@ msgid "Invalid url :( Please check your mail again."
 msgstr "Неверный адрес :( Пожалуйста, проверьте свою почту еще раз."
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
-msgstr "PixelPlanet.Fun 3D-глобус"
+msgid "PixelWar.Fun 3DGlobe"
+msgstr "PixelWar.Fun 3D-глобус"
 
 #: src/ssr/Globe.jsx:38
 msgid "A 3D globe of our whole map"
@@ -116,12 +116,12 @@ msgid "ppfun"
 msgstr "ppfun"
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
-msgstr "Всплывающее окно PixelPlanet.Fun"
+msgid "PixelWar.Fun PopUp"
+msgstr "Всплывающее окно PixelWar.Fun"
 
 #: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
-msgstr "PixelPlanet.Fun"
+msgid "PixelWar.Fun"
+msgstr "PixelWar.Fun"
 
 #: src/ssr/Main.jsx:66
 msgid "Place color pixels on an map styled canvas with other players online"
@@ -177,8 +177,8 @@ msgid "Password must be shorter than 60 characters."
 msgstr "Пароль должен быть короче 60 символов."
 
 #: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
-msgstr "Сброс пароля PixelPlanet.fun"
+msgid "PixelWar.Fun Password Reset"
+msgstr "Сброс пароля PixelWar.Fun"
 
 #: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
 msgid "Reset your password here"
@@ -194,8 +194,8 @@ msgid "Click here"
 msgstr "Нажмите здесь"
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
-msgstr ", чтобы вернуться на pixelplanet"
+msgid "to go back to PixelWar"
+msgstr ", чтобы вернуться на PixelWar"
 
 #: src/ssr/PasswordReset.jsx:50
 #, javascript-format
@@ -311,8 +311,8 @@ msgid "Muted Users can not do this."
 msgstr "Пользователи в муте не могут это сделать."
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
-msgstr "Аккаунты PixelPlanet.fun"
+msgid "PixelWar.Fun Accounts"
+msgstr "Аккаунты PixelWar.Fun"
 
 #: src/ssr/RedirectionPage.jsx:29
 msgid "You will be automatically redirected after 15s"
@@ -320,8 +320,8 @@ msgstr "Вы будете автоматически перенаправлен�
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
-msgstr "Или ${clickHere}, чтобы вернуться на pixelplanet"
+msgid "Or ${ clickHere } to go back to PixelWar"
+msgstr "Или ${clickHere}, чтобы вернуться на PixelWar"
 
 #: src/canvasesDesc.js:20
 msgid "Earth"
@@ -422,9 +422,9 @@ msgstr ""
 
 #: src/core/MailProvider.js:66
 #, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
 msgstr ""
-"Добро пожаловать ${ name } на PixelPlanet, пожалуйста, подтвердите свою почту"
+"Добро пожаловать ${ name } на PixelWar, пожалуйста, подтвердите свою почту"
 
 #: src/core/MailProvider.js:67
 #, javascript-format
@@ -469,8 +469,8 @@ msgstr ""
 "через ${ minLeft } минут."
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
-msgstr "Вы забыли пароль от PixelPlanet? Получите новый здесь"
+msgid "You forgot your password for PixelWar? Get a new one here"
+msgstr "Вы забыли пароль от PixelWar? Получите новый здесь"
 
 #: src/core/MailProvider.js:104
 msgid "Hello"

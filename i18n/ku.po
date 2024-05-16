@@ -3,7 +3,7 @@ msgstr ""
 "PO-Revision-Date: 2024-04-29 11:08+0000\n"
 "Last-Translator: Ahmed kurdish <nikogaming500@gmail.com>\n"
 "Language-Team: Kurdish (Northern) <https://hosted.weblate.org/projects/"
-"pixelplanet/client/kmr/>\n"
+"PixelWar/client/kmr/>\n"
 "Language: kmr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -66,10 +66,10 @@ msgstr "bêdeng kirin"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Ji pixelplanet cewab nehat. Ger ev pirsgirêk berdewam bike, malpera nûjen "
+"Ji PixelWar cewab nehat. Ger ev pirsgirêk berdewam bike, malpera nûjen "
 "bikin."
 
 #: src/ui/PixelTransferController.js:104
@@ -252,8 +252,8 @@ msgid "Your next pixels are ready"
 msgstr "Pixelên weya paşîn amade ne"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Niha hûn dikarin zêdetir li ser pixelplanet.fun bi cîh bikin :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Niha hûn dikarin zêdetir li ser PixelWar.Fun bi cîh bikin :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -819,8 +819,8 @@ msgid "Themes"
 msgstr "Mijad"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Divê pixelplanet çawa xuya bike."
+msgid "How PixelWar should look like."
+msgstr "Divê PixelWar çawa xuya bike."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"

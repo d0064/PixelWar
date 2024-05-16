@@ -47,7 +47,7 @@ function ip4NumToStr(ipNum) {
  * Get hostname from request
  * @param req express req object
  * @param includeProto if we include protocol (https, http)
- * @return host (like pixelplanet.fun)
+ * @return host (like PixelWar.fun)
  */
 export function getHostFromRequest(req, includeProto = true, stripSub = false) {
   const { headers } = req;

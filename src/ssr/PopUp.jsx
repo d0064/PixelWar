@@ -45,7 +45,7 @@ function generatePopUpPage(req) {
       <head>
         <meta charset="UTF-8" />
         <title>${t`ppfun`}</title>
-        <meta name="description" content="${t`PixelPlanet.Fun PopUp`}" />
+        <meta name="description" content="${t`PixelWar.Fun PopUp`}" />
         <meta name="google" content="nopagereadaloud" />
         <meta name="theme-color" content="#cae3ff" />
         <meta name="viewport"

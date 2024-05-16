@@ -95,7 +95,7 @@ msgid "Invalid url :( Please check your mail again."
 msgstr "آدرس اینترنتی نامعتبر :( لطفا دوباره ایمیل خود را بررسی کنید."
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
+msgid "PixelWar.Fun 3DGlobe"
 msgstr ""
 
 #: src/ssr/Globe.jsx:38
@@ -115,11 +115,11 @@ msgid "ppfun"
 msgstr ""
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
+msgid "PixelWar.Fun PopUp"
 msgstr ""
 
 #: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
+msgid "PixelWar.Fun"
 msgstr ""
 
 #: src/ssr/Main.jsx:66
@@ -175,8 +175,8 @@ msgid "Password must be shorter than 60 characters."
 msgstr "رمز عبور باید کمتر از 60 کاراکتر باشد."
 
 #: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
-msgstr "تنظیم مجدد رمز عبور PixelPlanet.fun"
+msgid "PixelWar.Fun Password Reset"
+msgstr "تنظیم مجدد رمز عبور PixelWar.Fun"
 
 #: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
 msgid "Reset your password here"
@@ -192,8 +192,8 @@ msgid "Click here"
 msgstr "اینجا کلیک کنید"
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
-msgstr "برای بازگشت به pixelplanet"
+msgid "to go back to PixelWar"
+msgstr "برای بازگشت به PixelWar"
 
 #: src/ssr/PasswordReset.jsx:50
 #, javascript-format
@@ -309,8 +309,8 @@ msgid "Muted Users can not do this."
 msgstr ""
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
-msgstr "حساب‌های PixelPlanet.fun"
+msgid "PixelWar.Fun Accounts"
+msgstr "حساب‌های PixelWar.Fun"
 
 #: src/ssr/RedirectionPage.jsx:29
 msgid "You will be automatically redirected after 15s"
@@ -318,7 +318,7 @@ msgstr "پس از 15 ثانیه به طور خودکار هدایت می شوی�
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
+msgid "Or ${ clickHere } to go back to PixelWar"
 msgstr "یا ${ clickHere } تا به پیکسل پلنت برگردی"
 
 #: src/canvasesDesc.js:20
@@ -417,7 +417,7 @@ msgstr ""
 
 #: src/core/MailProvider.js:66
 #, fuzzy, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
 msgstr "خوش اومدی آقای ${ name } به پیکسل پلنت. بی زحمت ایمیلت رو تایید کن"
 
 #: src/core/MailProvider.js:67
@@ -461,9 +461,9 @@ msgstr ""
 "${ minLeft }دقیقه دیگر درخواست کنید."
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
+msgid "You forgot your password for PixelWar? Get a new one here"
 msgstr ""
-"رمز عبور خود را برای PixelPlanet فراموش کرده اید؟ یک مورد جدید را از اینجا "
+"رمز عبور خود را برای PixelWar فراموش کرده اید؟ یک مورد جدید را از اینجا "
 "دریافت کنید"
 
 #: src/core/MailProvider.js:104

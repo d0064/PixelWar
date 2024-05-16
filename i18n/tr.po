@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-04-28 10:07+0000\n"
 "Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
-"Language-Team: Turkish <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/PixelWar/"
 "client/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -69,10 +69,10 @@ msgstr "Zaman aşımı"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Pixelplanet'ten yanıt alınamadı. Sorun devam ederse sayfayı yenilemeyi "
+"PixelWar'ten yanıt alınamadı. Sorun devam ederse sayfayı yenilemeyi "
 "deneyebilirsiniz."
 
 #: src/ui/PixelTransferController.js:104
@@ -250,8 +250,8 @@ msgid "Your next pixels are ready"
 msgstr "Sıradaki pikselleriniz hazır"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Artık pixelplanet.fun'da daha fazla piksel atabilirsin :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Artık PixelWar.Fun'da daha fazla piksel atabilirsin :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -821,7 +821,7 @@ msgid "Themes"
 msgstr "Temalar"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
+msgid "How PixelWar should look like."
 msgstr "Oyunun nasıl görüneceğidir."
 
 #: src/components/windows/Settings.jsx:190
@@ -1840,8 +1840,8 @@ msgstr "T"
 #~ msgid "Place pixels from overlay on right-shift, instead of history."
 #~ msgstr "Sağ-shift ile şablondan otomatik boya, geçmiş yerine."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Pixelplanet'ten yanıt alınamadı. Sayfayı yenilemeyi deneyebilirsin?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "PixelWar'ten yanıt alınamadı. Sayfayı yenilemeyi deneyebilirsin?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Biraz daha piksel at :)"
@@ -1868,8 +1868,8 @@ msgstr "T"
 #~ msgid "Restore my Password"
 #~ msgstr "Parolamı Yenile"
 
-#~ msgid "Welcome to PixelPlanet.fun"
-#~ msgstr "PixelPlanet.fun'a Hoş Geldiniz"
+#~ msgid "Welcome to PixelWar.Fun"
+#~ msgstr "PixelWar.Fun'a Hoş Geldiniz"
 
 #~ msgid "Look at past Canvases"
 #~ msgstr "Geçmiş tuvallere bak"

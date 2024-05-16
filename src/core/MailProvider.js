@@ -47,7 +47,7 @@ export class MailProvider {
       return;
     }
     this.transporter.sendMail({
-      from: `PixelPlanet <${MAIL_ADDRESS}>`,
+      from: `PixelWar <${MAIL_ADDRESS}>`,
       to,
       replyTo: MAIL_ADDRESS,
       subject,
@@ -63,12 +63,12 @@ export class MailProvider {
     const { t } = getTTag(lang);
     logger.info(`Sending verification mail to ${to} / ${name}`);
     const verifyUrl = `${host}/api/auth/verify?token=${code}&email=${encodeURIComponent(to)}`;
-    const subject = t`Welcome ${name} to PixelPlanet, please verify your mail`;
+    const subject = t`Welcome ${name} to PixelWar, please verify your mail`;
     const html = `<em>${t`Hello ${name}`}</em>,<br />
       ${t`welcome to our little community of pixelplacers, to use your account, you have to verify your mail. You can do that here: `} <a href="${verifyUrl}">${t`Click to Verify`}</a>. ${t`Or by copying following url:`}<br />${verifyUrl}\n<br />
       ${t`Have fun and don't hesitate to contact us if you encounter any problems :)`}<br />
       ${t`Thanks`}<br /><br />
-      <img alt="" src="https://pixelplanet.fun/tile.png" style="height:64px; width:64px" />`;
+      <img alt="" src="https://PixelWar.fun/tile.png" style="height:64px; width:64px" />`;
     this.sendMail(to, subject, html);
   }
 
@@ -100,11 +100,11 @@ export class MailProvider {
     const { t } = getTTag(lang);
     logger.info(`Sending Password reset mail to ${to}`);
     const restoreUrl = `${host}/reset_password?token=${code}&email=${encodeURIComponent(to)}`;
-    const subject = t`You forgot your password for PixelPlanet? Get a new one here`;
+    const subject = t`You forgot your password for PixelWar? Get a new one here`;
     const html = `<em>${t`Hello`}</em>,<br />
       ${t`You requested to get a new password. You can change your password within the next 30min here: `} <a href="${restoreUrl}">${t`Reset Password`}</a>. ${t`Or by copying following url:`}<br />${restoreUrl}\n<br />
       ${t`If you did not request this mail, please just ignore it (the ip that requested this mail was ${ip}).`}<br />
-      ${t`Thanks`}<br /><br />\n<img alt="" src="https://pixelplanet.fun/tile.png" style="height:64px; width:64px" />`;
+      ${t`Thanks`}<br /><br />\n<img alt="" src="https://PixelWar.fun/tile.png" style="height:64px; width:64px" />`;
     this.sendMail(to, subject, html);
   }
 
@@ -134,11 +134,11 @@ export class MailProvider {
      * not sure if this is needed yet
      * does it matter if spamming password reset mails or verifications mails?
      *
+     */
     if(!reguser.verified) {
       logger.info(`Password reset mail for ${to} requested by ${ip} - mail not verified`);
       return "Can't reset password of unverified account.";
     }
-    */
 
     const code = setCode(to);
     if (this.enabled) {

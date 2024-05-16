@@ -34,7 +34,7 @@ function generateGlobePage(req) {
     <html lang="${lang}">
       <head>
         <meta charset="UTF-8" />
-        <title>${t`PixelPlanet.Fun 3DGlobe`}</title>
+        <title>${t`PixelWar.Fun 3DGlobe`}</title>
         <meta name="description" content="${t`A 3D globe of our whole map`}" />
         <meta name="google" content="nopagereadaloud" />
         <meta name="theme-color" content="#cae3ff" />

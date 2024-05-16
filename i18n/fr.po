@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-04-23 16:07+0000\n"
 "Last-Translator: Sylvain <sylvainstein@pxlplanet.be>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: French <https://hosted.weblate.org/projects/PixelWar/"
 "client/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -71,10 +71,10 @@ msgstr ""
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Pas de réponse de PixelPlanet. Essayez peut-être d'actualiser le site ?"
+"Pas de réponse de PixelWar. Essayez peut-être d'actualiser le site ?"
 
 #: src/ui/PixelTransferController.js:104
 msgid "Invalid Canvas"
@@ -256,7 +256,7 @@ msgid "Your next pixels are ready"
 msgstr ""
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr ""
 
 #: src/store/middleware/notifications.js:54
@@ -826,8 +826,8 @@ msgid "Themes"
 msgstr "Thèmes"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "À quoi pixelplanet devrait ressembler."
+msgid "How PixelWar should look like."
+msgstr "À quoi PixelWar devrait ressembler."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1841,9 +1841,9 @@ msgstr ""
 #~ "Maintenez ${ bindShift } SHIFT droite pour placer pendant l'utilisation "
 #~ "de la souris selon la vue historique"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr ""
-#~ "Pas de réponse de PixelPlanet. Essayez peut-être d'actualiser le site ?"
+#~ "Pas de réponse de PixelWar. Essayez peut-être d'actualiser le site ?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Placer plus :)"
@@ -1863,8 +1863,8 @@ msgstr ""
 #~ msgid "Restore my Password"
 #~ msgstr "Restaurer mon mot de passe"
 
-#~ msgid "Welcome to PixelPlanet.fun"
-#~ msgstr "Bienvenue sur PixelPlanet.fun"
+#~ msgid "Welcome to PixelWar.Fun"
+#~ msgstr "Bienvenue sur PixelWar.Fun"
 
 #~ msgid "Look at past Canvases"
 #~ msgstr "Voir les anciennes toiles"

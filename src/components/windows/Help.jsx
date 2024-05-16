@@ -37,8 +37,8 @@ const Help = () => {
   const starhouseLink = <a href="https://twitter.com/starhousedev">starhouse </a>;
   const vinikLink = <a href="https://twitter.com/Vinikdev">Vinikdev</a>;
   const donendoLink = <a href="https://lospec.com/palette-list/lava-gb">Do-Nendo</a>;
-  const guildedLink = <a href="https://pixelplanet.fun/guilded">guilded</a>;
-  const mailLink = <a href="mailto:admin@pixelplanet.fun">admin@pixelplanet.fun</a>;
+  const guildedLink = <a href="https://PixelWar.fun/guilded">guilded</a>;
+  const mailLink = <a href="mailto:admin@PixelWar.fun">admin@PixelWar.fun</a>;
 
   const dispatch = useDispatch();
   const easterEgg = useSelector((state) => state.gui.easterEgg);
@@ -67,10 +67,10 @@ const Help = () => {
         {t`Higher zoomlevels take some time to update, the 3D globe gets updated at least once per day.`}<br />
         {t`Have fun!`}
       </p>
-      <p className="modalinfo">Guilded ({t`recommended`}): <a href="./guilded" target="_blank" rel="noopener noreferrer">pixelplanet.fun/guilded</a></p>
-      <p className="modalinfo">{t`Source on `}<a href="https://git.pixelplanet.fun" target="_blank" rel="noopener noreferrer">git.pixelplanet.fun</a></p>
+      <p className="modalinfo">Guilded ({t`recommended`}): <a href="./guilded" target="_blank" rel="noopener noreferrer">PixelWar.fun/guilded</a></p>
+      <p className="modalinfo">{t`Source on `}<a href="https://git.PixelWar.fun" target="_blank" rel="noopener noreferrer">git.PixelWar.fun</a></p>
       <h3>{t`Map Data`}</h3>
-      <p>{t`The bare map data that we use, together with converted OpenStreetMap tiles for orientation, can be downloaded from mega.nz here: `}<a href="https://mega.nz/#!JpkBwAbJ!EnSLlZmKv3kEBE0HDhakTgAZZycD3ELjduajJxPGaXo">pixelplanetmap.zip</a> (422MB)</p>
+      <p>{t`The bare map data that we use, together with converted OpenStreetMap tiles for orientation, can be downloaded from mega.nz here: `}<a href="https://mega.nz/#!JpkBwAbJ!EnSLlZmKv3kEBE0HDhakTgAZZycD3ELjduajJxPGaXo">PixelWarmap.zip</a> (422MB)</p>
       <h3>{t`Banned? Detected as Proxy?`}</h3>
       <div>
         <p>{jt`If you got detected as proxy, but you are none, or think that you got wrongfully banned, please go to our ${guildedLink} or send us an e-mail to ${mailLink} and include the following IID:`}</p>

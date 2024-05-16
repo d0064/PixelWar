@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-10 19:37+0000\n"
 "Last-Translator: FOXHELL <foxhell768@gmail.com>\n"
-"Language-Team: Kashubian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Kashubian <https://hosted.weblate.org/projects/PixelWar/"
 "client/csb/>\n"
 "Language: csb\n"
 "MIME-Version: 1.0\n"
@@ -71,10 +71,10 @@ msgstr "Kùńc czasu"
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Òd pixelplanet ni ma òdpòwiescë. Mòżesz spróbòwac òdswiéżec jakbë tôkel dali "
+"Òd PixelWar ni ma òdpòwiescë. Mòżesz spróbòwac òdswiéżec jakbë tôkel dali "
 "béł?"
 
 #: src/ui/PixelTransferController.js:104
@@ -258,8 +258,8 @@ msgid "Your next pixels are ready"
 msgstr "Twòje pòstãpné piksele są fardëch"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Terô mòżesz stawiac wicy na pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Terô mòżesz stawiac wicy na PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -821,8 +821,8 @@ msgid "Themes"
 msgstr "Témë"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Jak pixelplanet pòwinno wëzdrzëc."
+msgid "How PixelWar should look like."
+msgstr "Jak PixelWar pòwinno wëzdrzëc."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1839,9 +1839,9 @@ msgstr "T"
 #~ "Stôwiôj piksele z nakłôdczi miast w tribie historie, brëkùjącë prawégò "
 #~ "shifta."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr ""
-#~ "Òd pixelplanet ni ma òdpòwiescë. Mòżesz spróbòwac òdswiéżec jakbë tôkel "
+#~ "Òd PixelWar ni ma òdpòwiescë. Mòżesz spróbòwac òdswiéżec jakbë tôkel "
 #~ "dali béł?"
 
 #~ msgid "Place more :)"

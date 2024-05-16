@@ -83,7 +83,7 @@ msgid "Invalid url :( Please check your mail again."
 msgstr ""
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
+msgid "PixelWar.Fun 3DGlobe"
 msgstr ""
 
 #: src/ssr/Globe.jsx:38
@@ -103,14 +103,14 @@ msgid "ppfun"
 msgstr ""
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
+msgid "PixelWar.Fun PopUp"
 msgstr ""
 
-#: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
+#: src/ssr/Main.jsx:62
+msgid "PixelWar.Fun"
 msgstr ""
 
-#: src/ssr/Main.jsx:66
+#: src/ssr/Main.jsx:63
 msgid "Place color pixels on an map styled canvas with other players online"
 msgstr ""
 
@@ -164,7 +164,7 @@ msgstr ""
 
 #: src/ssr/PasswordReset.jsx:20
 #: src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
+msgid "PixelWar.fun Password Reset"
 msgstr ""
 
 #: src/ssr/PasswordReset.jsx:21
@@ -184,7 +184,7 @@ msgid "Click here"
 msgstr ""
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
+msgid "to go back to PixelWar"
 msgstr ""
 
 #: src/ssr/PasswordReset.jsx:50
@@ -212,7 +212,7 @@ msgstr ""
 msgid "You are not allowed to access this page"
 msgstr ""
 
-#: src/routes/api/modtools.js:209
+#: src/routes/api/modtools.js:207
 msgid "Just admins can do that"
 msgstr ""
 
@@ -220,41 +220,13 @@ msgstr ""
 msgid "You are not banned"
 msgstr ""
 
-#: src/routes/api/auth/register.js:27
-msgid "No Captcha given"
+#: src/routes/api/auth/logout.js:11
+msgid "You are not even logged in."
 msgstr ""
 
-#: src/routes/api/auth/register.js:30
-msgid "E-Mail already in use."
-msgstr ""
-
-#: src/routes/api/auth/register.js:32
-msgid "Username already in use."
-msgstr ""
-
-#: src/routes/api/auth/register.js:55
-msgid "You took too long, try again."
-msgstr ""
-
-#: src/routes/api/auth/register.js:58
-msgid "You failed your captcha"
-msgstr ""
-
-#: src/routes/api/auth/register.js:61
-msgid "Unknown Captcha Error"
-msgstr ""
-
-#: src/routes/api/auth/change_mail.js:22
-#: src/routes/api/auth/register.js:67
-msgid "This email provider is not allowed"
-msgstr ""
-
-#: src/routes/api/auth/register.js:89
-msgid "Failed to create new user :("
-msgstr ""
-
-#: src/routes/api/auth/register.js:105
-msgid "Failed to establish session after register :("
+#: src/routes/api/auth/delete_account.js:65
+#: src/routes/api/auth/logout.js:20
+msgid "Server error when logging out."
 msgstr ""
 
 #: src/routes/api/auth/verify.js:26
@@ -272,13 +244,41 @@ msgid ""
 "request a new one."
 msgstr ""
 
-#: src/routes/api/auth/logout.js:11
-msgid "You are not even logged in."
+#: src/routes/api/auth/change_mail.js:22
+#: src/routes/api/auth/register.js:24
+msgid "This email provider is not allowed"
 msgstr ""
 
-#: src/routes/api/auth/delete_account.js:65
-#: src/routes/api/auth/logout.js:20
-msgid "Server error when logging out."
+#: src/routes/api/auth/register.js:31
+msgid "No Captcha given"
+msgstr ""
+
+#: src/routes/api/auth/register.js:34
+msgid "E-Mail already in use."
+msgstr ""
+
+#: src/routes/api/auth/register.js:36
+msgid "Username already in use."
+msgstr ""
+
+#: src/routes/api/auth/register.js:59
+msgid "You took too long, try again."
+msgstr ""
+
+#: src/routes/api/auth/register.js:62
+msgid "You failed your captcha"
+msgstr ""
+
+#: src/routes/api/auth/register.js:65
+msgid "Unknown Captcha Error"
+msgstr ""
+
+#: src/routes/api/auth/register.js:89
+msgid "Failed to create new user :("
+msgstr ""
+
+#: src/routes/api/auth/register.js:105
+msgid "Failed to establish session after register :("
 msgstr ""
 
 #: src/routes/api/auth/change_mail.js:44
@@ -302,7 +302,7 @@ msgid "Muted Users can not do this."
 msgstr ""
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
+msgid "PixelWar.fun Accounts"
 msgstr ""
 
 #: src/ssr/RedirectionPage.jsx:29
@@ -311,7 +311,7 @@ msgstr ""
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
+msgid "Or ${ clickHere } to go back to PixelWar"
 msgstr ""
 
 #: src/canvasesDesc.js:20
@@ -402,7 +402,7 @@ msgstr ""
 
 #: src/core/MailProvider.js:66
 #, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
 msgstr ""
 
 #: src/core/MailProvider.js:67
@@ -442,7 +442,7 @@ msgid ""
 msgstr ""
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
+msgid "You forgot your password for PixelWar? Get a new one here"
 msgstr ""
 
 #: src/core/MailProvider.js:104

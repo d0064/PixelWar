@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-21 04:54+0000\n"
 "Last-Translator: Antonio <srbomrz@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Hungarian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/PixelWar/"
 "server/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -96,8 +96,8 @@ msgid "Invalid url :( Please check your mail again."
 msgstr "Érvénytelen link :( Kérjük, ellenőrizd újra a leveled."
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
-msgstr "PixelPlanet.Fun 3D földgömb"
+msgid "PixelWar.Fun 3DGlobe"
+msgstr "PixelWar.Fun 3D földgömb"
 
 #: src/ssr/Globe.jsx:38
 msgid "A 3D globe of our whole map"
@@ -116,12 +116,12 @@ msgid "ppfun"
 msgstr "ppfun"
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
-msgstr "PixelPlanet.Fun felugró"
+msgid "PixelWar.Fun PopUp"
+msgstr "PixelWar.Fun felugró"
 
 #: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
-msgstr "PixelPlanet.Fun"
+msgid "PixelWar.Fun"
+msgstr "PixelWar.Fun"
 
 #: src/ssr/Main.jsx:66
 msgid "Place color pixels on an map styled canvas with other players online"
@@ -177,8 +177,8 @@ msgid "Password must be shorter than 60 characters."
 msgstr "A jelszónak 60 karakternél rövidebbnek kell lennie."
 
 #: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
-msgstr "PixelPlanet.fun jelszó megváltoztatása"
+msgid "PixelWar.Fun Password Reset"
+msgstr "PixelWar.Fun jelszó megváltoztatása"
 
 #: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
 msgid "Reset your password here"
@@ -194,8 +194,8 @@ msgid "Click here"
 msgstr "Kattints ide"
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
-msgstr "vissza a pixelplanetre"
+msgid "to go back to PixelWar"
+msgstr "vissza a PixelWarre"
 
 #: src/ssr/PasswordReset.jsx:50
 #, javascript-format
@@ -310,8 +310,8 @@ msgid "Muted Users can not do this."
 msgstr "A némított felhasználók nem tehetik meg ezt."
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
-msgstr "PixelPlanet.fun fiókok"
+msgid "PixelWar.Fun Accounts"
+msgstr "PixelWar.Fun fiókok"
 
 #: src/ssr/RedirectionPage.jsx:29
 msgid "You will be automatically redirected after 15s"
@@ -319,8 +319,8 @@ msgstr "Automatikusan átirányítunk 15 másodperc múlva"
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
-msgstr "Vagy ${ clickHere } a pixelplanetre való visszatéréshez"
+msgid "Or ${ clickHere } to go back to PixelWar"
+msgstr "Vagy ${ clickHere } a PixelWarre való visszatéréshez"
 
 #: src/canvasesDesc.js:20
 msgid "Earth"
@@ -417,9 +417,9 @@ msgstr ""
 
 #: src/core/MailProvider.js:66
 #, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
 msgstr ""
-"Üdvözöljük ${ name } a PixelPlaneten, kérjük, hitelesítsd az e-mail címedet"
+"Üdvözöljük ${ name } a PixelWaren, kérjük, hitelesítsd az e-mail címedet"
 
 #: src/core/MailProvider.js:67
 #, javascript-format
@@ -463,8 +463,8 @@ msgstr ""
 "múlva."
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
-msgstr "Elfelejtetted a jelszavadat a PixelPlanethez? Itt szerezhetsz újat"
+msgid "You forgot your password for PixelWar? Get a new one here"
+msgstr "Elfelejtetted a jelszavadat a PixelWarhez? Itt szerezhetsz újat"
 
 #: src/core/MailProvider.js:104
 msgid "Hello"

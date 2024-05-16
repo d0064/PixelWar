@@ -13,7 +13,7 @@
 #  $1 = Date in format YYYYMMDD
 
 # CHANGE THIS TO YOUR PATH
-BACKUPROOT="/home/backup/pixelplanet/canvas"
+BACKUPROOT="/home/backup/PixelWar/canvas"
 # mount options of created monthly squashfs images
 MOUNT_OPTIONS="ro,defaults"
 

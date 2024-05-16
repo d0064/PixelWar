@@ -3,7 +3,7 @@ msgstr ""
 "PO-Revision-Date: 2024-03-12 19:57+0000\n"
 "Last-Translator: TCr3 <tcreeper.earth@gmail.com>\n"
 "Language-Team: Turkish (Ottoman) <https://hosted.weblate.org/projects/"
-"pixelplanet/client/ota/>\n"
+"PixelWar/client/ota/>\n"
 "Language: ota\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -67,10 +67,10 @@ msgstr ""
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Pixelplanet bir cevâp irâd eylemedi. Sahife-i icticdad tecrübe eylediniz mi?"
+"PixelWar bir cevâp irâd eylemedi. Sahife-i icticdad tecrübe eylediniz mi?"
 
 #: src/ui/PixelTransferController.js:104
 msgid "Invalid Canvas"
@@ -259,7 +259,7 @@ msgid "Your next pixels are ready"
 msgstr ""
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr ""
 
 #: src/store/middleware/notifications.js:54
@@ -786,7 +786,7 @@ msgid "Themes"
 msgstr ""
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
+msgid "How PixelWar should look like."
 msgstr ""
 
 #: src/components/windows/Settings.jsx:190

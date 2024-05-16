@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-05-14 19:42+0000\n"
 "Last-Translator: FOXHELL <foxhell768@gmail.com>\n"
-"Language-Team: Estonian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Estonian <https://hosted.weblate.org/projects/PixelWar/"
 "client/et/>\n"
 "Language: et\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -66,10 +66,10 @@ msgstr "Sessioon Aegus"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Pixelplanetilt ei saadud vastust. Proovi taaskäivitada lehekülg kui problem "
+"PixelWarilt ei saadud vastust. Proovi taaskäivitada lehekülg kui problem "
 "ei lahene."
 
 #: src/ui/PixelTransferController.js:104
@@ -251,8 +251,8 @@ msgid "Your next pixels are ready"
 msgstr "Sa saad uuesti joonistada"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Sa saad uuesti pixelplanet.fun'is joonistada :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Sa saad uuesti PixelWar.Fun'is joonistada :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -807,8 +807,8 @@ msgid "Themes"
 msgstr "Disain"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Kuidas pixelplanet peaks välja nägema."
+msgid "How PixelWar should look like."
+msgstr "Kuidas PixelWar peaks välja nägema."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1817,8 +1817,8 @@ msgstr "T"
 #~ msgid "Place pixels from overlay on right-shift, instead of history."
 #~ msgstr "Joonista piksleid ajaloo asemel ülekattelt parempoolse Shift'iga."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Pixelplanetilt ei saadud vastust. Proovi taaskäivitada lehekülg."
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "PixelWarilt ei saadud vastust. Proovi taaskäivitada lehekülg."
 
 #~ msgid "Place more :)"
 #~ msgstr "Joonista rohkem :)"

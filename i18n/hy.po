@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-18 19:50+0000\n"
 "Last-Translator: Alen <alen.mankyan7@gmail.com>\n"
-"Language-Team: Armenian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Armenian <https://hosted.weblate.org/projects/PixelWar/"
 "client/hy/>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
@@ -70,10 +70,10 @@ msgstr "Ընդմիջում"
 # Թարքմանել է Նարեկ Ադամյանը ։)
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Pixelplanet-ը չի արձագանքում։ Փորձեք թարմացնել էջը, եթե խնդիրը չվերանա:"
+"PixelWar-ը չի արձագանքում։ Փորձեք թարմացնել էջը, եթե խնդիրը չվերանա:"
 
 #: src/ui/PixelTransferController.js:104
 msgid "Invalid Canvas"
@@ -252,8 +252,8 @@ msgid "Your next pixels are ready"
 msgstr "Ձեր հաջորդ պիքսելները պատրաստ են"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Դուք արդեն կարող եք տեղադրել ավելին pixelplanet.fun-ում"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Դուք արդեն կարող եք տեղադրել ավելին PixelWar.Fun-ում"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -818,8 +818,8 @@ msgid "Themes"
 msgstr "Թեմաներ"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Ինչպես պետք է լինի pixelplanet-ը:"
+msgid "How PixelWar should look like."
+msgstr "Ինչպես պետք է լինի PixelWar-ը:"
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1839,8 +1839,8 @@ msgstr "T"
 #~ "Տեղադրեք պիքսելներ overlay-ից աջ shift-ով, պատմական տեսակետի փոխարեն:"
 
 # Թարքմանել է Նարեկ Ադամյանը ։)
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Pixelplanet-ը չի արձագանքում: Գուցե փորձեք թարմացնել էջը:"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "PixelWar-ը չի արձագանքում: Գուցե փորձեք թարմացնել էջը:"
 
 #~ msgid "Place more :)"
 #~ msgstr "Տեղադրեք ավելին :)"
@@ -1890,8 +1890,8 @@ msgstr "T"
 #~ "Այս կայքը պաշտպանված է hCAPTCHA- ի կողմից և կիրառվում են նրա "
 #~ "${ hCaptchaPP } և ${ hCaptchaTOS }:"
 
-#~ msgid "Welcome to PixelPlanet.fun"
-#~ msgstr "Բարի գալուստ PixelPlanet.fun"
+#~ msgid "Welcome to PixelWar.Fun"
+#~ msgstr "Բարի գալուստ PixelWar.Fun"
 
 #~ msgid "Daily"
 #~ msgstr "Ամեն օր"

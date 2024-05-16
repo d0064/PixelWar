@@ -69,10 +69,10 @@ msgstr "Перапынак"
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Няма адказу ад Pixelplanet. Паспрабуйце абнавіць старонку, калі праблема не "
+"Няма адказу ад PixelWar. Паспрабуйце абнавіць старонку, калі праблема не "
 "знікае"
 
 #: src/ui/PixelTransferController.js:104
@@ -253,8 +253,8 @@ msgid "Your next pixels are ready"
 msgstr "Новыя пікселі гатовыя"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Цяпер Вы можаце маляваць больш на pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Цяпер Вы можаце маляваць больш на PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -815,8 +815,8 @@ msgid "Themes"
 msgstr "Тэмы"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Як мусіць выглядаць pixelplanet."
+msgid "How PixelWar should look like."
+msgstr "Як мусіць выглядаць PixelWar."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1823,8 +1823,8 @@ msgstr ""
 #~ "Зацісніце правы ${ bindShift } для таго, каб маляваць падчас руху мышкі "
 #~ "паводле гістарычнага выгляду"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Няма адказу ад Pixelplanet. Паспрабуйце абнавіць старонку."
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "Няма адказу ад PixelWar. Паспрабуйце абнавіць старонку."
 
 #~ msgid "Place more :)"
 #~ msgstr "Малюйце больш :)"

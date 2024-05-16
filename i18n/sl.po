@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-09 22:00+0000\n"
-"Last-Translator: HF <hf@pixelplanet.fun>\n"
-"Language-Team: Slovenian <https://hosted.weblate.org/projects/pixelplanet/"
+"Last-Translator: HF <hf@PixelWar.Fun>\n"
+"Language-Team: Slovenian <https://hosted.weblate.org/projects/PixelWar/"
 "client/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -72,9 +72,9 @@ msgstr ""
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
-msgstr "Nismo prejeli odgovora od pixelplaneta. Mogoče poskušaj osvežiti?"
+msgstr "Nismo prejeli odgovora od PixelWara. Mogoče poskušaj osvežiti?"
 
 #: src/ui/PixelTransferController.js:104
 msgid "Invalid Canvas"
@@ -256,7 +256,7 @@ msgid "Your next pixels are ready"
 msgstr ""
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr ""
 
 #: src/store/middleware/notifications.js:54
@@ -824,8 +824,8 @@ msgid "Themes"
 msgstr "Teme"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Kako si želite da pixelplanet izgleda"
+msgid "How PixelWar should look like."
+msgstr "Kako si želite da PixelWar izgleda"
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1836,8 +1836,8 @@ msgstr ""
 #~ "Za postavljanje med premikanjem miške po zgodovinskem načinu pritisnite "
 #~ "desni ${ bindShift }"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Nismo prejeli odgovora od pixelplaneta. Mogoče poskušaj osvežiti?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "Nismo prejeli odgovora od PixelWara. Mogoče poskušaj osvežiti?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Postavite več c:"
@@ -1854,8 +1854,8 @@ msgstr ""
 #~ msgid "Partners:"
 #~ msgstr "Partnerji:"
 
-#~ msgid "Welcome to PixelPlanet.fun"
-#~ msgstr "Dobrodošli na PixelPlanet.fun"
+#~ msgid "Welcome to PixelWar.Fun"
+#~ msgstr "Dobrodošli na PixelWar.Fun"
 
 #~ msgid "Ranking"
 #~ msgstr "Razvrstitev"

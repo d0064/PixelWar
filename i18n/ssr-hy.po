@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-12 19:57+0000\n"
 "Last-Translator: Alen <alen.mankyan7@gmail.com>\n"
-"Language-Team: Armenian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Armenian <https://hosted.weblate.org/projects/PixelWar/"
 "server/hy/>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
@@ -95,8 +95,8 @@ msgid "Invalid url :( Please check your mail again."
 msgstr "Անվավեր url :( Խնդրում ենք կրկին ստուգել ձեր փոստը:"
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
-msgstr "PixelPlanet.Fun 3D Գլոբուս"
+msgid "PixelWar.Fun 3DGlobe"
+msgstr "PixelWar.Fun 3D Գլոբուս"
 
 #: src/ssr/Globe.jsx:38
 msgid "A 3D globe of our whole map"
@@ -115,12 +115,12 @@ msgid "ppfun"
 msgstr "ppfun"
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
-msgstr "PixelPlanet.Fun-ի ելնող պատուհան"
+msgid "PixelWar.Fun PopUp"
+msgstr "PixelWar.Fun-ի ելնող պատուհան"
 
 #: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
-msgstr "PixelPlanet.Fun"
+msgid "PixelWar.Fun"
+msgstr "PixelWar.Fun"
 
 #: src/ssr/Main.jsx:66
 msgid "Place color pixels on an map styled canvas with other players online"
@@ -175,8 +175,8 @@ msgid "Password must be shorter than 60 characters."
 msgstr "Գաղտնաբառը պետք է լինի 60 նիշից կարճ:"
 
 #: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
-msgstr "PixelPlanet.fun գաղտնաբառի վերականգնում"
+msgid "PixelWar.Fun Password Reset"
+msgstr "PixelWar.Fun գաղտնաբառի վերականգնում"
 
 #: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
 msgid "Reset your password here"
@@ -192,8 +192,8 @@ msgid "Click here"
 msgstr "Սեղմեք այստեղ"
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
-msgstr "Վերադառնալ pixelplanet"
+msgid "to go back to PixelWar"
+msgstr "Վերադառնալ PixelWar"
 
 #: src/ssr/PasswordReset.jsx:50
 #, javascript-format
@@ -309,8 +309,8 @@ msgid "Muted Users can not do this."
 msgstr "Լռեցված օգտատերերը չեն կարող դա անել:"
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
-msgstr "PixelPlanet.fun հաշիվներ"
+msgid "PixelWar.Fun Accounts"
+msgstr "PixelWar.Fun հաշիվներ"
 
 #: src/ssr/RedirectionPage.jsx:29
 msgid "You will be automatically redirected after 15s"
@@ -318,8 +318,8 @@ msgstr "15 վրկ հետո դուք ավտոմատ կերպով կուղղորդ
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
-msgstr "Կամ ${clickHere} ՝ pixelplanet վերադառնալու համար"
+msgid "Or ${ clickHere } to go back to PixelWar"
+msgstr "Կամ ${clickHere} ՝ PixelWar վերադառնալու համար"
 
 #: src/canvasesDesc.js:20
 msgid "Earth"
@@ -417,8 +417,8 @@ msgstr ""
 
 #: src/core/MailProvider.js:66
 #, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
-msgstr "Բարի գալուստ ${name} PixelPlanet, խնդրում ենք ստուգել ձեր էլ. փոստը"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
+msgstr "Բարի գալուստ ${name} PixelWar, խնդրում ենք ստուգել ձեր էլ. փոստը"
 
 # Թառքմանել է Նարեկ Ադամյանը ։)
 #: src/core/MailProvider.js:67
@@ -462,8 +462,8 @@ msgstr ""
 "պահանջել մեկ այլ նամակ:"
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
-msgstr "Մոռացե՞լ եք PixelPlanet- ի ձեր գաղտնաբառը: Ստացեք նորը այստեղ"
+msgid "You forgot your password for PixelWar? Get a new one here"
+msgstr "Մոռացե՞լ եք PixelWar- ի ձեր գաղտնաբառը: Ստացեք նորը այստեղ"
 
 #: src/core/MailProvider.js:104
 msgid "Hello"

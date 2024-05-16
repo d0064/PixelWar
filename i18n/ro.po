@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-19 20:48+0000\n"
 "Last-Translator: Negru Berg <denisfagetan975@gmail.com>\n"
-"Language-Team: Romanian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Romanian <https://hosted.weblate.org/projects/PixelWar/"
 "client/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -70,10 +70,10 @@ msgstr "Pauză"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Nu am primit niciun răspuns de la pixelplanet. Încearcă să dai refresh daca "
+"Nu am primit niciun răspuns de la PixelWar. Încearcă să dai refresh daca "
 "problema persistă."
 
 #: src/ui/PixelTransferController.js:104
@@ -251,8 +251,8 @@ msgid "Your next pixels are ready"
 msgstr "Pixelii tăi următori sunt gata"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Acum poți pune mai mult pe pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Acum poți pune mai mult pe PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -813,8 +813,8 @@ msgid "Themes"
 msgstr "Teme"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Cum pixelplanet ar trebui să arate."
+msgid "How PixelWar should look like."
+msgstr "Cum PixelWar ar trebui să arate."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1825,9 +1825,9 @@ msgstr "T"
 #~ msgid "Place pixels from overlay on right-shift, instead of history."
 #~ msgstr "Pune pixeli de pe Overlay pe shift-dreapta, în loc de istoric."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr ""
-#~ "Nu am primit niciun răspuns de la pixelplanet. Poate încearcă să "
+#~ "Nu am primit niciun răspuns de la PixelWar. Poate încearcă să "
 #~ "reîncarci pagina?"
 
 #~ msgid "Place more :)"

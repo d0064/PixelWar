@@ -99,8 +99,8 @@ msgid "Invalid url :( Please check your mail again."
 msgstr "Ongeldige url :( Controleer a.u.b. nogmaals uw mail."
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
-msgstr "PixelPlanet.Fun 3DGlobe"
+msgid "PixelWar.Fun 3DGlobe"
+msgstr "PixelWar.Fun 3DGlobe"
 
 #: src/ssr/Globe.jsx:38
 msgid "A 3D globe of our whole map"
@@ -119,12 +119,12 @@ msgid "ppfun"
 msgstr "ppfun"
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
-msgstr "PixelPlanet.Fun-pop-up"
+msgid "PixelWar.Fun PopUp"
+msgstr "PixelWar.Fun-pop-up"
 
 #: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
-msgstr "PixelPlanet.Fun"
+msgid "PixelWar.Fun"
+msgstr "PixelWar.Fun"
 
 #: src/ssr/Main.jsx:66
 msgid "Place color pixels on an map styled canvas with other players online"
@@ -181,8 +181,8 @@ msgid "Password must be shorter than 60 characters."
 msgstr "Wachtwoord moet korter zijn dan 60 tekens."
 
 #: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
-msgstr "PixelPlanet.fun wachtwoord opnieuw instellen"
+msgid "PixelWar.Fun Password Reset"
+msgstr "PixelWar.Fun wachtwoord opnieuw instellen"
 
 #: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
 msgid "Reset your password here"
@@ -198,8 +198,8 @@ msgid "Click here"
 msgstr "Klik hier"
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
-msgstr "om terug te gaan naar pixelplanet"
+msgid "to go back to PixelWar"
+msgstr "om terug te gaan naar PixelWar"
 
 #: src/ssr/PasswordReset.jsx:50
 #, javascript-format
@@ -314,8 +314,8 @@ msgid "Muted Users can not do this."
 msgstr ""
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
-msgstr "PixelPlanet.fun-accounts"
+msgid "PixelWar.Fun Accounts"
+msgstr "PixelWar.Fun-accounts"
 
 #: src/ssr/RedirectionPage.jsx:29
 msgid "You will be automatically redirected after 15s"
@@ -323,8 +323,8 @@ msgstr "Na 15 seconden wordt u automatisch doorgestuurd"
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
-msgstr "Of ${ clickHere } om terug te gaan naar pixelplanet"
+msgid "Or ${ clickHere } to go back to PixelWar"
+msgstr "Of ${ clickHere } om terug te gaan naar PixelWar"
 
 #: src/canvasesDesc.js:20
 msgid "Earth"
@@ -423,8 +423,8 @@ msgstr ""
 
 #: src/core/MailProvider.js:66
 #, fuzzy, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
-msgstr "Welkom ${ name } bij PixelPlanet, verifieer a.u.b. uw e-mail"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
+msgstr "Welkom ${ name } bij PixelWar, verifieer a.u.b. uw e-mail"
 
 #: src/core/MailProvider.js:67
 #, javascript-format
@@ -469,8 +469,8 @@ msgstr ""
 "minuten een nieuwe aanvragen."
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
-msgstr "Je bent je wachtwoord voor PixelPlanet vergeten? Koop hier een nieuwe"
+msgid "You forgot your password for PixelWar? Get a new one here"
+msgstr "Je bent je wachtwoord voor PixelWar vergeten? Koop hier een nieuwe"
 
 #: src/core/MailProvider.js:104
 msgid "Hello"

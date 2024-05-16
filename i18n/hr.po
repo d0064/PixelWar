@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-04-18 01:03+0000\n"
 "Last-Translator: Antonio <srbomrz@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Croatian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Croatian <https://hosted.weblate.org/projects/PixelWar/"
 "client/hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
@@ -70,10 +70,10 @@ msgstr "Pauza"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Nisam dobio odgovor od pixelplaneta. Možda pokušati osvježiti ako se problem "
+"Nisam dobio odgovor od PixelWara. Možda pokušati osvježiti ako se problem "
 "nastavi."
 
 #: src/ui/PixelTransferController.js:104
@@ -249,8 +249,8 @@ msgid "Your next pixels are ready"
 msgstr "Vaši sljedeći pikseli su spremni"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Sada možete staviti više na pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Sada možete staviti više na PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -808,8 +808,8 @@ msgid "Themes"
 msgstr "Teme"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Kako bi pixelplanet trebao izgledati."
+msgid "How PixelWar should look like."
+msgstr "Kako bi PixelWar trebao izgledati."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1819,8 +1819,8 @@ msgstr "T"
 #~ msgid "Place pixels from overlay on right-shift, instead of history."
 #~ msgstr "Postavite pixele iz sloja pomoću desnog shifta, umjesto povijesti."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Nisam dobio odgovor od pixelplaneta. Možda probati osvježiti?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "Nisam dobio odgovor od PixelWara. Možda probati osvježiti?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Stavljajte više :)"

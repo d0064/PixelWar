@@ -16,7 +16,7 @@ function getHtml(description, text, host, lang) {
     <html lang="${lang}">
       <head>
         <meta charset="UTF-8" />
-        <title>${t`PixelPlanet.fun Accounts`}</title>
+        <title>${t`PixelWar.fun Accounts`}</title>
         <meta name="description" content="${description}" />
         <meta name="google" content="nopagereadaloud" />
         <meta name="theme-color" content="#cae3ff" />
@@ -27,7 +27,7 @@ function getHtml(description, text, host, lang) {
       <body>
         <h3>${text}</h3>
         <p>${t`You will be automatically redirected after 15s`}</p>
-        <p>${jt`Or ${clickHere} to go back to pixelplanet`}</p>
+        <p>${jt`Or ${clickHere} to go back to PixelWar`}</p>
       </body>
     </html>
   `;

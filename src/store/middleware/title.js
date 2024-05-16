@@ -17,7 +17,7 @@ function setThemeColorMeta(r, g, b) {
   }
 }
 
-const TITLE = 'PixelPlanet.fun';
+const TITLE = 'PixelWar.fun';
 
 let lastTitle = null;
 

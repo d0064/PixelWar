@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-05-01 10:07+0000\n"
 "Last-Translator: Legenda Tochno <tochnolegenda8@gmail.com>\n"
-"Language-Team: Kazakh <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Kazakh <https://hosted.weblate.org/projects/PixelWar/"
 "client/kk/>\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
@@ -69,10 +69,10 @@ msgstr "Байланыс орнату уақыты бітті"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Pixelplanet жауап бермейді. Мәселе шешілмесе, бәлкім бетті жаңартып көріңіз."
+"PixelWar жауап бермейді. Мәселе шешілмесе, бәлкім бетті жаңартып көріңіз."
 
 #: src/ui/PixelTransferController.js:104
 msgid "Invalid Canvas"
@@ -249,8 +249,8 @@ msgid "Your next pixels are ready"
 msgstr "Келесі пикселдеріңіз дайын тұр"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Енді сіз pixelplanet.fun-да көбірек сала аласыз :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Енді сіз PixelWar.Fun-да көбірек сала аласыз :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -814,8 +814,8 @@ msgid "Themes"
 msgstr "Кейіптер"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Pixelplanet қалай көрінуге тиіс."
+msgid "How PixelWar should look like."
+msgstr "PixelWar қалай көрінуге тиіс."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1814,8 +1814,8 @@ msgstr "T"
 #~ "Тінтуірді сүйрегенде тарихи көрініске сәйкес пиксел салу үшін оң жақ "
 #~ "${ bindShift } ұстап тұрыңыз"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
-#~ msgstr "Pixelplanet жауап бермейді. Бетті жаңартсаңыз қайтеді?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
+#~ msgstr "PixelWar жауап бермейді. Бетті жаңартсаңыз қайтеді?"
 
 #~ msgid "Place more :)"
 #~ msgstr "Көбірек салыңыз :)"

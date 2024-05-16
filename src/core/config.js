@@ -17,7 +17,7 @@ export const HOST = process.env.HOST || 'localhost';
 
 export const USE_MAILER = parseInt(process.env.USE_MAILER, 10) || false;
 export const MAIL_ADDRESS = process.env.MAIL_ADDRESS
-  || 'donotreply@pixelplanet.fun';
+  || 'donotreply@PixelWar.fun';
 
 const TILE_FOLDER_REL = process.env.TILE_FOLDER || 'tiles';
 export const TILE_FOLDER = path.resolve(TILE_FOLDER_REL);
@@ -40,8 +40,8 @@ export const REDIS_URL = process.env.REDIS_URL || 'redis://localhost:6379';
 export const SHARD_NAME = process.env.SHARD_NAME || null;
 // Database
 export const MYSQL_HOST = process.env.MYSQL_HOST || 'localhost';
-export const MYSQL_DATABASE = process.env.MYSQL_DATABASE || 'pixelplanet';
-export const MYSQL_USER = process.env.MYSQL_USER || 'pixelplanet';
+export const MYSQL_DATABASE = process.env.MYSQL_DATABASE || 'PixelWar';
+export const MYSQL_USER = process.env.MYSQL_USER || 'PixelWar';
 export const MYSQL_PW = process.env.MYSQL_PW || 'password';
 
 // Social

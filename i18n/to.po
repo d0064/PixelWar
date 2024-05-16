@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-11 16:05+0000\n"
 "Last-Translator: FOXHELL <foxhell768@gmail.com>\n"
-"Language-Team: Tongan <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Tongan <https://hosted.weblate.org/projects/PixelWar/"
 "client/to/>\n"
 "Language: to\n"
 "MIME-Version: 1.0\n"
@@ -71,10 +71,10 @@ msgstr "Timeout"
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 #, fuzzy
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Naʻe ʻikai ke maʻu ha tali mei he pixelplanet. Mahalo te ke feinga ke "
+"Naʻe ʻikai ke maʻu ha tali mei he PixelWar. Mahalo te ke feinga ke "
 "fakafoʻou kapau ʻe kei hokohoko atu pe ʻa e palopalema?"
 
 #: src/ui/PixelTransferController.js:104
@@ -261,9 +261,9 @@ msgid "Your next pixels are ready"
 msgstr "Kuo maau hoʻo pixel hoko"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
+msgid "You can now place more on PixelWar.Fun :)"
 msgstr ""
-"Te ke lava he taimi ni ʻo fokotuʻu ha meʻa lahi ange ʻi he pixelplanet.fun :)"
+"Te ke lava he taimi ni ʻo fokotuʻu ha meʻa lahi ange ʻi he PixelWar.Fun :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -839,8 +839,8 @@ msgid "Themes"
 msgstr "Ngaahi Kaveingá"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "ʻOku totonu ke fotunga fefe ʻa e pixelplanet."
+msgid "How PixelWar should look like."
+msgstr "ʻOku totonu ke fotunga fefe ʻa e PixelWar."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1855,9 +1855,9 @@ msgstr "T"
 #~ "Puke ʻa e toʻomataʻu ${ bindShift } ki hono fokotuʻu lolotonga hono ʻave "
 #~ "ʻo e mausi ʻo fakatatau ki he vakai fakahisitolia"
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr ""
-#~ "Naʻe ʻikai ke maʻu ha tali mei he pixelplanet. Mahalo te ke feinga ke "
+#~ "Naʻe ʻikai ke maʻu ha tali mei he PixelWar. Mahalo te ke feinga ke "
 #~ "fakafoʻou?"
 
 #~ msgid "Place more :)"

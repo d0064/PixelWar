@@ -166,7 +166,7 @@ const TemplateSettings = () => {
               const data = await templateLoader.exportEnabledTemplates();
               if (data) {
                 fileDownload(
-                  JSON.stringify(data), 'PixelplanetTemplates.json',
+                  JSON.stringify(data), 'PixelWarTemplates.json',
                 );
               }
             }}

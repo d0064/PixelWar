@@ -14,7 +14,7 @@ import { isPopUp } from './windows/popUpAvailable';
 const titleAllowed = [
   'odysee',
   'twitter',
-  'matrix.pixelplanet.fun',
+  'matrix.PixelWar.fun',
   'youtube',
   'youtu.be',
   't.me',
@@ -25,7 +25,7 @@ const MdLink = ({ href, title, refEmbed }) => {
 
   const desc = getLinkDesc(href);
 
-  // treat pixelplanet links separately
+  // treat PixelWar links separately
   if (desc === window.location.hostname && href.includes('/#')) {
     const coords = href.substring(href.indexOf('/#') + 1);
     if (isPopUp() && window.opener && !window.opener.closed) {

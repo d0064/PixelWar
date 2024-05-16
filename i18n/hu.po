@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-12 19:57+0000\n"
-"Last-Translator: HF <hf@pixelplanet.fun>\n"
-"Language-Team: Hungarian <https://hosted.weblate.org/projects/pixelplanet/"
+"Last-Translator: HF <hf@PixelWar.Fun>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/PixelWar/"
 "client/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -69,10 +69,10 @@ msgstr "Időtúllépés"
 
 #: src/ui/PixelTransferController.js:72 src/ui/PixelTransferController.js:167
 msgid ""
-"Didn't get an answer from pixelplanet. Try to refresh if this problem "
+"Didn't get an answer from PixelWar. Try to refresh if this problem "
 "persists."
 msgstr ""
-"Nem érkezett válasz a PixelPlanettől. Próbáld meg frissíteni az oldalt, ha a "
+"Nem érkezett válasz a PixelWartől. Próbáld meg frissíteni az oldalt, ha a "
 "probléma továbbra is fennáll."
 
 #: src/ui/PixelTransferController.js:104
@@ -250,8 +250,8 @@ msgid "Your next pixels are ready"
 msgstr "A következő pixeleid készen állnak"
 
 #: src/store/middleware/notifications.js:37
-msgid "You can now place more on pixelplanet.fun :)"
-msgstr "Mostantól többet is elhelyezhetsz a pixelplanet.fun oldalon :)"
+msgid "You can now place more on PixelWar.Fun :)"
+msgstr "Mostantól többet is elhelyezhetsz a PixelWar.Fun oldalon :)"
 
 #: src/store/middleware/notifications.js:54
 msgid "mentioned you"
@@ -817,8 +817,8 @@ msgid "Themes"
 msgstr "Témák"
 
 #: src/components/windows/Settings.jsx:183
-msgid "How pixelplanet should look like."
-msgstr "Ahogy a pixelplanetnek kellene kinéznie."
+msgid "How PixelWar should look like."
+msgstr "Ahogy a PixelWarnek kellene kinéznie."
 
 #: src/components/windows/Settings.jsx:190
 msgid "Select Language"
@@ -1836,9 +1836,9 @@ msgstr "T"
 #~ "Pixelek elhelyezése az overlay-ből a jobb oldali shift-tel, a történelmi "
 #~ "nézet helyett."
 
-#~ msgid "Didn't get an answer from pixelplanet. Maybe try to refresh?"
+#~ msgid "Didn't get an answer from PixelWar. Maybe try to refresh?"
 #~ msgstr ""
-#~ "Nem érkezett válasz a PixelPlanettől. Próbáld meg frissíteni az oldalt."
+#~ "Nem érkezett válasz a PixelWartől. Próbáld meg frissíteni az oldalt."
 
 #~ msgid "Place more :)"
 #~ msgstr "Rajzolj többet :)"

@@ -231,7 +231,7 @@ function Converter() {
             } = canvas;
             fileDownload(
               printGIMPPalette(title, desc, colors.slice(cli)),
-              `Pixelplanet${title}.gpl`,
+              `PixelWar${title}.gpl`,
             );
           }}
         >

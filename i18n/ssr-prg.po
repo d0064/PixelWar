@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-03-24 14:49+0000\n"
 "Last-Translator: Negru Berg <denisfagetan975@gmail.com>\n"
-"Language-Team: Prussian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Prussian <https://hosted.weblate.org/projects/PixelWar/"
 "server/prg/>\n"
 "Language: prg\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -93,8 +93,8 @@ msgid "Invalid url :( Please check your mail again."
 msgstr "inwalīdi url :( izbāndātun twajs pōstikastens etkūmps."
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
-msgstr "PixelPlanet.Fun 3D planēta"
+msgid "PixelWar.Fun 3DGlobe"
+msgstr "PixelWar.Fun 3D planēta"
 
 #: src/ssr/Globe.jsx:38
 msgid "A 3D globe of our whole map"
@@ -113,12 +113,12 @@ msgid "ppfun"
 msgstr "ppfun"
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
-msgstr "PixelPlanet.Fun reklāmi"
+msgid "PixelWar.Fun PopUp"
+msgstr "PixelWar.Fun reklāmi"
 
 #: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
-msgstr "PixelPlanet.Fun"
+msgid "PixelWar.Fun"
+msgstr "PixelWar.Fun"
 
 #: src/ssr/Main.jsx:66
 msgid "Place color pixels on an map styled canvas with other players online"
@@ -173,8 +173,8 @@ msgid "Password must be shorter than 60 characters."
 msgstr "kliptaswīrds papalla ast mazzais nikāi 60 dabbas."
 
 #: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
-msgstr "PixelPlanet.fun kliptaswīrds etkraūt"
+msgid "PixelWar.Fun Password Reset"
+msgstr "PixelWar.Fun kliptaswīrds etkraūt"
 
 #: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
 msgid "Reset your password here"
@@ -190,8 +190,8 @@ msgid "Click here"
 msgstr "sprakstinna šāi"
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
-msgstr "izēitwei iz pixelplanet"
+msgid "to go back to PixelWar"
+msgstr "izēitwei iz PixelWar"
 
 #: src/ssr/PasswordReset.jsx:50
 #, javascript-format
@@ -306,8 +306,8 @@ msgid "Muted Users can not do this."
 msgstr "Dussaws tērpautajai ni izklìptina segēi šis."
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
-msgstr "PixelPlanet.fun kōntai"
+msgid "PixelWar.Fun Accounts"
+msgstr "PixelWar.Fun kōntai"
 
 #: src/ssr/RedirectionPage.jsx:29
 msgid "You will be automatically redirected after 15s"
@@ -315,8 +315,8 @@ msgstr "jūs ast ēisei assei autōmatiska pabanginna pa 15s"
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
-msgstr "adder ${ clickHere } skassa pixelplanet"
+msgid "Or ${ clickHere } to go back to PixelWar"
+msgstr "adder ${ clickHere } skassa PixelWar"
 
 #: src/canvasesDesc.js:20
 msgid "Earth"
@@ -412,8 +412,8 @@ msgstr "Erkarjaūwusi zemē na mazs zemē. Dalljawusi cd sēn spanga drābi!"
 
 #: src/core/MailProvider.js:66
 #, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
-msgstr "Kaīls ${ name } prēi PixelPlanet, izbānda twajs pōstikastens"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
+msgstr "Kaīls ${ name } prēi PixelWar, izbānda twajs pōstikastens"
 
 #: src/core/MailProvider.js:67
 #, javascript-format
@@ -457,7 +457,7 @@ msgstr ""
 "${ minLeft } minūtis."
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
+msgid "You forgot your password for PixelWar? Get a new one here"
 msgstr ""
 
 #: src/core/MailProvider.js:104

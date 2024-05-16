@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-03-11 09:27+0000\n"
 "Last-Translator: Giorgi <giorezo@icloud.com>\n"
-"Language-Team: Georgian <https://hosted.weblate.org/projects/pixelplanet/"
+"Language-Team: Georgian <https://hosted.weblate.org/projects/PixelWar/"
 "server/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
@@ -97,8 +97,8 @@ msgid "Invalid url :( Please check your mail again."
 msgstr "არასწორი url :( გთხოვთ, ხელახლა შეამოწმოთ თქვენი ფოსტა."
 
 #: src/ssr/Globe.jsx:37
-msgid "PixelPlanet.Fun 3DGlobe"
-msgstr "PixelPlanet.Fun 3DGlobe"
+msgid "PixelWar.Fun 3DGlobe"
+msgstr "PixelWar.Fun 3DGlobe"
 
 #: src/ssr/Globe.jsx:38
 msgid "A 3D globe of our whole map"
@@ -117,12 +117,12 @@ msgid "ppfun"
 msgstr "ppfun"
 
 #: src/ssr/PopUp.jsx:48
-msgid "PixelPlanet.Fun PopUp"
-msgstr "PixelPlanet.Fun PopUp"
+msgid "PixelWar.Fun PopUp"
+msgstr "PixelWar.Fun PopUp"
 
 #: src/ssr/Main.jsx:65
-msgid "PixelPlanet.Fun"
-msgstr "PixelPlanet.Fun"
+msgid "PixelWar.Fun"
+msgstr "PixelWar.Fun"
 
 #: src/ssr/Main.jsx:66
 msgid "Place color pixels on an map styled canvas with other players online"
@@ -179,8 +179,8 @@ msgid "Password must be shorter than 60 characters."
 msgstr "პაროლი უნდა იყოს 60 სიმბოლოზე ნაკლები."
 
 #: src/ssr/PasswordReset.jsx:20 src/ssr/PasswordReset.jsx:40
-msgid "PixelPlanet.fun Password Reset"
-msgstr "PixelPlanet.fun პაროლის აღდგენა"
+msgid "PixelWar.Fun Password Reset"
+msgstr "PixelWar.Fun პაროლის აღდგენა"
 
 #: src/ssr/PasswordReset.jsx:21 src/ssr/PasswordReset.jsx:41
 msgid "Reset your password here"
@@ -196,7 +196,7 @@ msgid "Click here"
 msgstr "Დააკლიკე აქ"
 
 #: src/ssr/PasswordReset.jsx:30
-msgid "to go back to pixelplanet"
+msgid "to go back to PixelWar"
 msgstr "პიქსელ პლანეტაზე დასაბრუნებლად"
 
 #: src/ssr/PasswordReset.jsx:50
@@ -315,8 +315,8 @@ msgid "Muted Users can not do this."
 msgstr "დამიუთებულ მომხმარებლებს არ შეუძლიათ ამის გაკეთება."
 
 #: src/ssr/RedirectionPage.jsx:19
-msgid "PixelPlanet.fun Accounts"
-msgstr "PixelPlanet.fun ანგარიშები"
+msgid "PixelWar.Fun Accounts"
+msgstr "PixelWar.Fun ანგარიშები"
 
 #: src/ssr/RedirectionPage.jsx:29
 msgid "You will be automatically redirected after 15s"
@@ -324,8 +324,8 @@ msgstr "თქვენ ავტომატურად გადამის�
 
 #: src/ssr/RedirectionPage.jsx:30
 #, javascript-format
-msgid "Or ${ clickHere } to go back to pixelplanet"
-msgstr "ან ${ clickHere } pixelplanet-ზე დასაბრუნებლად"
+msgid "Or ${ clickHere } to go back to PixelWar"
+msgstr "ან ${ clickHere } PixelWar-ზე დასაბრუნებლად"
 
 #: src/canvasesDesc.js:20
 msgid "Earth"
@@ -429,9 +429,9 @@ msgstr ""
 
 #: src/core/MailProvider.js:66
 #, javascript-format
-msgid "Welcome ${ name } to PixelPlanet, please verify your mail"
+msgid "Welcome ${ name } to PixelWar, please verify your mail"
 msgstr ""
-"მოგესალმებით ${ name } PixelPlanet-ში, გთხოვთ, გადაამოწმოთ თქვენი ფოსტა"
+"მოგესალმებით ${ name } PixelWar-ში, გთხოვთ, გადაამოწმოთ თქვენი ფოსტა"
 
 #: src/core/MailProvider.js:67
 #, javascript-format
@@ -475,8 +475,8 @@ msgstr ""
 "${ minLeft } წუთში."
 
 #: src/core/MailProvider.js:103
-msgid "You forgot your password for PixelPlanet? Get a new one here"
-msgstr "დაგავიწყდათ თქვენი პაროლი PixelPlanet-ისთვის? მიიღეთ ახალი აქ"
+msgid "You forgot your password for PixelWar? Get a new one here"
+msgstr "დაგავიწყდათ თქვენი პაროლი PixelWar-ისთვის? მიიღეთ ახალი აქ"
 
 #: src/core/MailProvider.js:104
 msgid "Hello"
