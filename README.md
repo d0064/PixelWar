@@ -2,6 +2,7 @@
 
 Official  repository of [PixelWar.fun](http://www.PixelWar.fun).
 Code is under ownership of hf, The developer of pixelplanet.fun https://git.pixelplanet.fun
+All of the photos and gif files under this file are not made by us.
 
 To the 2nd anniversary of r/space, PixelPlanet takes pixelgames to a new level. Place pixels, create pixelart and fight faction wars on PixelPlanet.
 PixelPlanet is a 65k x 65k large canvas that is a map of the world and can also be seen as 3d globe, you can place pixels where ever you want, build an island, take over another country with a flag or just create pixelart.
